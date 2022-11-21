@@ -1,9 +1,9 @@
-package something
+package main
 
 import (
 	"github.com/coopnorge/go-datadog-lib/middleware"
 )
 
-func MyServer() {
+func main() {
 	middleware.TraceUnaryServerInterceptor()
 }
