@@ -2,6 +2,9 @@ import abc
 from dataclasses import dataclass
 from typing import Generic, TypeVar
 
+# Defining some classes with subclass relationships, as these are essential for
+# illustrating the need for covariant type variables.
+
 
 class Shape(abc.ABC):
     @abc.abstractmethod
@@ -31,16 +34,24 @@ ShapeBT = TypeVar("ShapeBT", bound=Shape)
 
 @dataclass
 class GenericShapePair(Generic[ShapeAT, ShapeBT]):
+    """
+    A generic shape pair that can hold any two shapes.
+    """
+
     shape1: ShapeAT
     shape2: ShapeBT
 
 
 def generic_pair_area(pair: GenericShapePair[Shape, Shape]) -> float:
+    """
+    Calculate the area of a generic shape pair.
+    """
     return pair.shape1.get_area() + pair.shape2.get_area()
 
 
 def test_generic() -> None:
     pair: GenericShapePair[Square, Circle] = GenericShapePair(Square(2), Circle(3))
+
     # It would be reasonable to expect this value to be usable with `generic_pair_area`, but mypy thinks it should not work
     # 👇 mypy error: Argument 1 to "generic_pair_area" has incompatible type "GenericShapePair[Square, Circle]"; expected "GenericShapePair[Shape, Shape]"
     assert generic_pair_area(pair) == 13.14
@@ -74,6 +85,7 @@ def test_generic_covariant() -> None:
     pair: GenericCovariantShapePair[Square, Circle] = GenericCovariantShapePair(
         Square(2), Circle(3)
     )
+
     # Doing the exact same thing with covariant type variables works as expected
     # with no mypy errors, because now GenericCovariantShapePair[Square, Circle] is a subtype of GenericCovariantShapePair[Shape, Shape].
     assert generic_covariant_shape_area(pair) == 13.14
