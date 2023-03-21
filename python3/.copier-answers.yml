@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 35c49bd
+_src_path: /Users/iwanaucamp/sw/d/github.com/aucampia/copier-python/
+build_tool: poe
+cli_name: aucampia-examples-cli
+git_commit: false
+git_init: false
+project_name: aucampia-examples
+project_short_description: aucampia-examples
+project_url: https://example.com/project
+python_package_fqname: aucampia.examples
+python_version: '3.8'
+sdpx_license_identifier: UNLICENSED
+use_oci_devtools: false
+use_poetry_dynamic_versioning: false
+variant: minimal_typer
+version: 0.0.0
+
