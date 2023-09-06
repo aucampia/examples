@@ -4,20 +4,25 @@ SCRIPT_DIR="$(dirname -- "$(readlink -f -- "${BASH_SOURCE[0]}")")"
 
 set -x -Eeuo pipefail
 
+# https://github.com/search?q=lang%3APython+topic%3Acli&type=repositories&s=stars&o=desc
+# https://github.com/search?q=lang%3APython+topic%3Acommand-line&type=repositories&s=stars&o=desc
+# https://github.com/search?q=lang%3APython+topic%3Acommand-line-interface&type=repositories&s=stars&o=desc
 PACKAGES=(
     black
     codespell
     cookiecutter
     copier
-    coverage
     cruft
     csvkit
     databricks-cli
     doit
     flake8
+    gitsome
     httpie
     ipython
     jc
+    jello
+    jrnl
     mypy
     pgcli
     pip
@@ -34,10 +39,12 @@ PACKAGES=(
     sherlock
     tox
     virtualenv
+    xonsh
     youtube-dl
     yq
-    xonsh
 )
+
+echo "PACKAGES=${PACKAGES[*]}"
 
 DESTINATION="var/wheels"
 
