@@ -184,6 +184,17 @@
 {"wheel":"jc-1.23.4-py3-none-any.whl","extras":[],"marker":null,"name":"ruamel.yaml","specifier":">=0.15.0","url":null}
 {"wheel":"jc-1.23.4-py3-none-any.whl","extras":[],"marker":null,"name":"xmltodict","specifier":">=0.12.0","url":null}
 {"wheel":"jc-1.23.4-py3-none-any.whl","extras":[],"marker":null,"name":"Pygments","specifier":">=2.3.0","url":null}
+{"wheel":"jello-1.6.0-py3-none-any.whl","extras":[],"marker":null,"name":"Pygments","specifier":">=2.4.2","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"ansiwrap","specifier":"<0.9.0,>=0.8.4","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"colorama","specifier":">=0.4","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"cryptography","specifier":">=3.0","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"keyring","specifier":">=21.0","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"parsedatetime","specifier":">=2.6","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"python-dateutil","specifier":"<3.0,>=2.8","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"pyxdg","specifier":">=0.27.0","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"rich","specifier":"<14.0.0,>=12.2.0","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"ruamel.yaml","specifier":">=0.17.22","url":null}
+{"wheel":"jrnl-4.0.1-py3-none-any.whl","extras":[],"marker":null,"name":"tzlocal","specifier":">=4.0","url":null}
 {"wheel":"mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl","extras":[],"marker":null,"name":"typing-extensions","specifier":">=4.1.0","url":null}
 {"wheel":"mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl","extras":[],"marker":null,"name":"mypy-extensions","specifier":">=1.0.0","url":null}
 {"wheel":"mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl","extras":[],"marker":"python_version < \"3.11\"","name":"tomli","specifier":">=1.1.0","url":null}

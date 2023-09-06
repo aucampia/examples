@@ -17,7 +17,6 @@ PACKAGES=(
     databricks-cli
     doit
     flake8
-    gitsome
     httpie
     ipython
     jc

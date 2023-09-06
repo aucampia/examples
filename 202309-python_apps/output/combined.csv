@@ -185,6 +185,17 @@ ipython-8.15.0-py3-none-any.whl,typing-extensions,,,[],"extra == ""doc"""
 jc-1.23.4-py3-none-any.whl,Pygments,>=2.3.0,,[],
 jc-1.23.4-py3-none-any.whl,ruamel.yaml,>=0.15.0,,[],
 jc-1.23.4-py3-none-any.whl,xmltodict,>=0.12.0,,[],
+jello-1.6.0-py3-none-any.whl,Pygments,>=2.4.2,,[],
+jrnl-4.0.1-py3-none-any.whl,ansiwrap,"<0.9.0,>=0.8.4",,[],
+jrnl-4.0.1-py3-none-any.whl,colorama,>=0.4,,[],
+jrnl-4.0.1-py3-none-any.whl,cryptography,>=3.0,,[],
+jrnl-4.0.1-py3-none-any.whl,keyring,>=21.0,,[],
+jrnl-4.0.1-py3-none-any.whl,parsedatetime,>=2.6,,[],
+jrnl-4.0.1-py3-none-any.whl,python-dateutil,"<3.0,>=2.8",,[],
+jrnl-4.0.1-py3-none-any.whl,pyxdg,>=0.27.0,,[],
+jrnl-4.0.1-py3-none-any.whl,rich,"<14.0.0,>=12.2.0",,[],
+jrnl-4.0.1-py3-none-any.whl,ruamel.yaml,>=0.17.22,,[],
+jrnl-4.0.1-py3-none-any.whl,tzlocal,>=4.0,,[],
 mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,lxml,,,[],"extra == ""reports"""
 mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,mypy-extensions,>=1.0.0,,[],
 mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,pip,,,[],"extra == ""install-types"""

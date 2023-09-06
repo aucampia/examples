@@ -1,0 +1,10 @@
+{"extras":[],"marker":null,"name":"ansiwrap","specifier":"<0.9.0,>=0.8.4","url":null}
+{"extras":[],"marker":null,"name":"colorama","specifier":">=0.4","url":null}
+{"extras":[],"marker":null,"name":"cryptography","specifier":">=3.0","url":null}
+{"extras":[],"marker":null,"name":"keyring","specifier":">=21.0","url":null}
+{"extras":[],"marker":null,"name":"parsedatetime","specifier":">=2.6","url":null}
+{"extras":[],"marker":null,"name":"python-dateutil","specifier":"<3.0,>=2.8","url":null}
+{"extras":[],"marker":null,"name":"pyxdg","specifier":">=0.27.0","url":null}
+{"extras":[],"marker":null,"name":"rich","specifier":"<14.0.0,>=12.2.0","url":null}
+{"extras":[],"marker":null,"name":"ruamel.yaml","specifier":">=0.17.22","url":null}
+{"extras":[],"marker":null,"name":"tzlocal","specifier":">=4.0","url":null}

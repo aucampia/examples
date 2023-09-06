@@ -127,6 +127,30 @@
   "url": null
 }
 {
+  "wheel": "jrnl-4.0.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "ansiwrap",
+  "specifier": "<0.9.0,>=0.8.4",
+  "url": null
+}
+{
+  "wheel": "jrnl-4.0.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "python-dateutil",
+  "specifier": "<3.0,>=2.8",
+  "url": null
+}
+{
+  "wheel": "jrnl-4.0.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "rich",
+  "specifier": "<14.0.0,>=12.2.0",
+  "url": null
+}
+{
   "wheel": "pgcli-3.5.0-py3-none-any.whl",
   "extras": [],
   "marker": null,
