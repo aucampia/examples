@@ -1,0 +1,18 @@
+name,specifier,url,extras,marker
+black,==23.3.0,,[],"extra == ""dev-lint"""
+coverage,"!=6.0.*,!=6.1,!=6.1.1,<7,>6",,[],"extra == ""dev-coverage"""
+html5lib,"<2,>=1.1",,[],
+mypy,"<0.900,>=0.800",,[],"python_version < ""3.10"" and extra == ""dev-type-checking"""
+mypy,"<0.1000,>=0.900",,[],"python_version >= ""3.10"" and extra == ""dev-type-checking"""
+owlrl,"<7,>=6.0.2",,[],
+packaging,>=21.3,,[],
+platformdirs,,,[],"extra == ""dev-lint"" or extra == ""dev-type-checking"" or extra == ""dev-coverage"""
+prettytable,"<3.0.0,>=2.2.1",,[],
+pyduktape2,"<0.5.0,>=0.4.3",,[],"extra == ""js"""
+pytest-cov,"<3.0.0,>=2.8.1",,[],"extra == ""dev-coverage"""
+rdflib,"<7,>=6.3.2",,[],
+ruff,"<0.0.268,>=0.0.267",,[],"extra == ""dev-lint"""
+sanic,"<23,>=22.12",,[],"extra == ""http"""
+sanic-cors,==2.2.0,,[],"extra == ""http"""
+sanic-ext,"<23.6,>=23.3",,[],"extra == ""http"""
+types-setuptools,,,[],"extra == ""dev-type-checking"""

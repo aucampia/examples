@@ -1,0 +1,10 @@
+name,specifier,url,extras,marker
+agate,>=1.6.1,,[],
+agate-excel,>=0.2.2,,[],
+agate-dbf,>=0.2.2,,[],
+agate-sql,>=0.5.3,,[],
+sphinx,>=1.0.7,,[],"extra == ""docs"""
+sphinx-rtd-theme,,,[],"extra == ""docs"""
+coverage,>=4.4.2,,[],"extra == ""test"""
+pytest,,,[],"extra == ""test"""
+pytest-cov,,,[],"extra == ""test"""

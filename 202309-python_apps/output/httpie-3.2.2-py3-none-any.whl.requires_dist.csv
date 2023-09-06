@@ -1,0 +1,35 @@
+name,specifier,url,extras,marker
+pip,,,[],
+charset-normalizer,>=2.0.0,,[],
+defusedxml,>=0.6.0,,[],
+requests,>=2.22.0,,"[""socks""]",
+Pygments,>=2.5.2,,[],
+requests-toolbelt,>=0.9.1,,[],
+multidict,>=4.7.0,,[],
+setuptools,,,[],
+rich,>=9.10.0,,[],
+importlib-metadata,>=1.4.0,,[],"python_version < ""3.8"""
+colorama,>=0.2.4,,[],"sys_platform == ""win32"""
+pytest,,,[],"extra == ""dev"""
+pytest-httpbin,>=0.0.6,,[],"extra == ""dev"""
+pytest-lazy-fixture,>=0.0.6,,[],"extra == ""dev"""
+responses,,,[],"extra == ""dev"""
+pytest-mock,,,[],"extra == ""dev"""
+werkzeug,<2.1.0,,[],"extra == ""dev"""
+flake8,,,[],"extra == ""dev"""
+flake8-comprehensions,,,[],"extra == ""dev"""
+flake8-deprecated,,,[],"extra == ""dev"""
+flake8-mutable,,,[],"extra == ""dev"""
+flake8-tuple,,,[],"extra == ""dev"""
+pyopenssl,,,[],"extra == ""dev"""
+pytest-cov,,,[],"extra == ""dev"""
+pyyaml,,,[],"extra == ""dev"""
+twine,,,[],"extra == ""dev"""
+wheel,,,[],"extra == ""dev"""
+Jinja2,,,[],"extra == ""dev"""
+pytest,,,[],"extra == ""test"""
+pytest-httpbin,>=0.0.6,,[],"extra == ""test"""
+pytest-lazy-fixture,>=0.0.6,,[],"extra == ""test"""
+responses,,,[],"extra == ""test"""
+pytest-mock,,,[],"extra == ""test"""
+werkzeug,<2.1.0,,[],"extra == ""test"""

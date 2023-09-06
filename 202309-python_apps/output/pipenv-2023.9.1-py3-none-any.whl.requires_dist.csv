@@ -1,0 +1,16 @@
+name,specifier,url,extras,marker
+certifi,,,[],
+setuptools,>=67.0.0,,[],
+virtualenv,>=20.24.2,,[],
+towncrier,,,[],"extra == ""dev"""
+beautifulsoup4,,,[],"extra == ""dev"""
+sphinx,,,[],"extra == ""dev"""
+flake8,"<4.0,>=3.3.0",,[],"extra == ""dev"""
+black,==23.3.0,,[],"extra == ""dev"""
+parver,,,[],"extra == ""dev"""
+invoke,,,[],"extra == ""dev"""
+pytest,>=5.0,,[],"extra == ""tests"""
+pytest-timeout,,,[],"extra == ""tests"""
+pytest-xdist,,,[],"extra == ""tests"""
+flaky,,,[],"extra == ""tests"""
+mock,,,[],"extra == ""tests"""

@@ -1,0 +1,16 @@
+{"extras":[],"marker":null,"name":"iniconfig","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"packaging","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"pluggy","specifier":"<2.0,>=0.12","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"exceptiongroup","specifier":">=1.0.0rc8","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"tomli","specifier":">=1.0.0","url":null}
+{"extras":[],"marker":"python_version < \"3.8\"","name":"importlib-metadata","specifier":">=0.12","url":null}
+{"extras":[],"marker":"sys_platform == \"win32\"","name":"colorama","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"argcomplete","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"attrs","specifier":">=19.2.0","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"hypothesis","specifier":">=3.56","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"mock","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"nose","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"pygments","specifier":">=2.7.2","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"requests","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"setuptools","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"xmlschema","specifier":"","url":null}

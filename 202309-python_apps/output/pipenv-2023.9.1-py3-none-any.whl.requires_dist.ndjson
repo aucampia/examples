@@ -1,0 +1,15 @@
+{"extras":[],"marker":null,"name":"certifi","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"setuptools","specifier":">=67.0.0","url":null}
+{"extras":[],"marker":null,"name":"virtualenv","specifier":">=20.24.2","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"towncrier","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"beautifulsoup4","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"sphinx","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"flake8","specifier":"<4.0,>=3.3.0","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"black","specifier":"==23.3.0","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"parver","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"invoke","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"pytest","specifier":">=5.0","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"pytest-timeout","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"pytest-xdist","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"flaky","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"mock","specifier":"","url":null}

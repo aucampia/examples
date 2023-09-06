@@ -1,0 +1,12 @@
+{"extras":[],"marker":null,"name":"pgspecial","specifier":">=2.0.0","url":null}
+{"extras":[],"marker":null,"name":"click","specifier":">=4.1","url":null}
+{"extras":[],"marker":null,"name":"Pygments","specifier":">=2.0","url":null}
+{"extras":[],"marker":null,"name":"prompt-toolkit","specifier":"<4.0.0,>=2.0.6","url":null}
+{"extras":[],"marker":null,"name":"psycopg","specifier":">=3.0.14","url":null}
+{"extras":[],"marker":null,"name":"sqlparse","specifier":"<0.5,>=0.3.0","url":null}
+{"extras":[],"marker":null,"name":"configobj","specifier":">=5.0.6","url":null}
+{"extras":[],"marker":null,"name":"pendulum","specifier":">=2.1.0","url":null}
+{"extras":["styles"],"marker":null,"name":"cli-helpers","specifier":">=2.2.1","url":null}
+{"extras":[],"marker":null,"name":"setproctitle","specifier":">=1.1.9","url":null}
+{"extras":[],"marker":"extra == \"keyring\"","name":"keyring","specifier":">=12.2.0","url":null}
+{"extras":[],"marker":"extra == \"sshtunnel\"","name":"sshtunnel","specifier":">=0.4.0","url":null}

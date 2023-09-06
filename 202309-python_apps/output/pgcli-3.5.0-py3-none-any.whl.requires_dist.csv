@@ -1,0 +1,13 @@
+name,specifier,url,extras,marker
+pgspecial,>=2.0.0,,[],
+click,>=4.1,,[],
+Pygments,>=2.0,,[],
+prompt-toolkit,"<4.0.0,>=2.0.6",,[],
+psycopg,>=3.0.14,,[],
+sqlparse,"<0.5,>=0.3.0",,[],
+configobj,>=5.0.6,,[],
+pendulum,>=2.1.0,,[],
+cli-helpers,>=2.2.1,,"[""styles""]",
+setproctitle,>=1.1.9,,[],
+keyring,>=12.2.0,,[],"extra == ""keyring"""
+sshtunnel,>=0.4.0,,[],"extra == ""sshtunnel"""

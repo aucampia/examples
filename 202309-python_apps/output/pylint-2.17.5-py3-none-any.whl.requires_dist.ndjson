@@ -1,0 +1,12 @@
+{"extras":[],"marker":null,"name":"platformdirs","specifier":">=2.2.0","url":null}
+{"extras":[],"marker":null,"name":"astroid","specifier":"<=2.17.0-dev0,>=2.15.6","url":null}
+{"extras":[],"marker":null,"name":"isort","specifier":"<6,>=4.2.5","url":null}
+{"extras":[],"marker":null,"name":"mccabe","specifier":"<0.8,>=0.6","url":null}
+{"extras":[],"marker":null,"name":"tomlkit","specifier":">=0.10.1","url":null}
+{"extras":[],"marker":"python_version < \"3.10\"","name":"typing-extensions","specifier":">=3.10.0","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"dill","specifier":">=0.2","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"tomli","specifier":">=1.1.0","url":null}
+{"extras":[],"marker":"python_version >= \"3.11\"","name":"dill","specifier":">=0.3.6","url":null}
+{"extras":[],"marker":"sys_platform == \"win32\"","name":"colorama","specifier":">=0.4.5","url":null}
+{"extras":[],"marker":"extra == \"spelling\"","name":"pyenchant","specifier":"~=3.2","url":null}
+{"extras":[],"marker":"extra == \"testutils\"","name":"gitpython","specifier":">3","url":null}

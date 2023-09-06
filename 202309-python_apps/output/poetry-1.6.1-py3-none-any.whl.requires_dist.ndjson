@@ -1,0 +1,24 @@
+{"extras":[],"marker":null,"name":"build","specifier":"<0.11.0,>=0.10.0","url":null}
+{"extras":["filecache"],"marker":null,"name":"cachecontrol","specifier":"<0.14.0,>=0.13.0","url":null}
+{"extras":[],"marker":null,"name":"cleo","specifier":"<3.0.0,>=2.0.0","url":null}
+{"extras":[],"marker":null,"name":"crashtest","specifier":"<0.5.0,>=0.4.1","url":null}
+{"extras":[],"marker":null,"name":"dulwich","specifier":"<0.22.0,>=0.21.2","url":null}
+{"extras":[],"marker":"python_version < \"3.10\"","name":"importlib-metadata","specifier":">=4.4","url":null}
+{"extras":[],"marker":null,"name":"installer","specifier":"<0.8.0,>=0.7.0","url":null}
+{"extras":[],"marker":null,"name":"jsonschema","specifier":"<4.18.0,>=4.10.0","url":null}
+{"extras":[],"marker":null,"name":"keyring","specifier":"<25.0.0,>=24.0.0","url":null}
+{"extras":[],"marker":null,"name":"packaging","specifier":">=20.4","url":null}
+{"extras":[],"marker":null,"name":"pexpect","specifier":"<5.0.0,>=4.7.0","url":null}
+{"extras":[],"marker":null,"name":"pkginfo","specifier":"<2.0.0,>=1.9.4","url":null}
+{"extras":[],"marker":null,"name":"platformdirs","specifier":"<4.0.0,>=3.0.0","url":null}
+{"extras":[],"marker":null,"name":"poetry-core","specifier":"==1.7.0","url":null}
+{"extras":[],"marker":null,"name":"poetry-plugin-export","specifier":"<2.0.0,>=1.5.0","url":null}
+{"extras":[],"marker":null,"name":"pyproject-hooks","specifier":"<2.0.0,>=1.0.0","url":null}
+{"extras":[],"marker":null,"name":"requests","specifier":"<3.0,>=2.26","url":null}
+{"extras":[],"marker":null,"name":"requests-toolbelt","specifier":"<2,>=0.9.1","url":null}
+{"extras":[],"marker":null,"name":"shellingham","specifier":"<2.0,>=1.5","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"tomli","specifier":"<3.0.0,>=2.0.1","url":null}
+{"extras":[],"marker":null,"name":"tomlkit","specifier":"<1.0.0,>=0.11.4","url":null}
+{"extras":[],"marker":null,"name":"trove-classifiers","specifier":">=2022.5.19","url":null}
+{"extras":[],"marker":null,"name":"virtualenv","specifier":"<21.0.0,>=20.22.0","url":null}
+{"extras":[],"marker":"sys_platform == \"darwin\"","name":"xattr","specifier":"<0.11.0,>=0.10.0","url":null}

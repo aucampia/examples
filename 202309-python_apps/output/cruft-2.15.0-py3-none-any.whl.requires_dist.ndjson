@@ -1,0 +1,6 @@
+{"extras":[],"marker":null,"name":"click","specifier":">=7.1.2","url":null}
+{"extras":[],"marker":null,"name":"cookiecutter","specifier":">=1.7","url":null}
+{"extras":[],"marker":null,"name":"gitpython","specifier":">=3.0","url":null}
+{"extras":[],"marker":"python_version < \"3.8\"","name":"importlib-metadata","specifier":"<5.0.0,>=2.0.0","url":null}
+{"extras":[],"marker":"python_version < \"3.11\" and extra == \"pyproject\"","name":"toml","specifier":">=0.10","url":null}
+{"extras":[],"marker":null,"name":"typer","specifier":">=0.4.0","url":null}

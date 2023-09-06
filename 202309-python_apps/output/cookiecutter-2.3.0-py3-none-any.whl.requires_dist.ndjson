@@ -1,0 +1,8 @@
+{"extras":[],"marker":null,"name":"binaryornot","specifier":">=0.4.4","url":null}
+{"extras":[],"marker":null,"name":"Jinja2","specifier":"<4.0.0,>=2.7","url":null}
+{"extras":[],"marker":null,"name":"click","specifier":"<9.0.0,>=7.0","url":null}
+{"extras":[],"marker":null,"name":"pyyaml","specifier":">=5.3.1","url":null}
+{"extras":[],"marker":null,"name":"python-slugify","specifier":">=4.0.0","url":null}
+{"extras":[],"marker":null,"name":"requests","specifier":">=2.23.0","url":null}
+{"extras":[],"marker":null,"name":"arrow","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"rich","specifier":"","url":null}

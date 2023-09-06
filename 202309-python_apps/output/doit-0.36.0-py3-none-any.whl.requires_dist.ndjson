@@ -1,0 +1,3 @@
+{"extras":[],"marker":null,"name":"cloudpickle","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"importlib-metadata","specifier":">=4.4","url":null}
+{"extras":[],"marker":"python_version < \"3.11\" and extra == \"toml\"","name":"tomli","specifier":"","url":null}

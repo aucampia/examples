@@ -1,0 +1,10 @@
+name,specifier,url,extras,marker
+PyYAML,>=5.3.1,,[],
+xmltodict,>=0.11.0,,[],
+tomlkit,>=0.11.6,,[],
+argcomplete,>=1.8.1,,[],
+coverage,,,[],"extra == ""tests"""
+wheel,,,[],"extra == ""tests"""
+build,,,[],"extra == ""tests"""
+ruff,,,[],"extra == ""tests"""
+mypy,,,[],"extra == ""tests"""

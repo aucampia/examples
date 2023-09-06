@@ -1,0 +1,15 @@
+{"extras":[],"marker":"extra == \"dev\"","name":"build","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"chardet","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest-cov","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest-dependency","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"Pygments","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"ruff","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"tomli","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"hard-encoding-detection\"","name":"chardet","specifier":"","url":null}
+{"extras":[],"marker":"python_version < \"3.11\" and extra == \"toml\"","name":"tomli","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"types\"","name":"chardet","specifier":">=5.1.0","url":null}
+{"extras":[],"marker":"extra == \"types\"","name":"mypy","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"types\"","name":"pytest","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"types\"","name":"pytest-cov","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"types\"","name":"pytest-dependency","specifier":"","url":null}

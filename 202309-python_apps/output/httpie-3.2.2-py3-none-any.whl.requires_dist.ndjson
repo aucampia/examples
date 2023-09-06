@@ -1,0 +1,34 @@
+{"extras":[],"marker":null,"name":"pip","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"charset-normalizer","specifier":">=2.0.0","url":null}
+{"extras":[],"marker":null,"name":"defusedxml","specifier":">=0.6.0","url":null}
+{"extras":["socks"],"marker":null,"name":"requests","specifier":">=2.22.0","url":null}
+{"extras":[],"marker":null,"name":"Pygments","specifier":">=2.5.2","url":null}
+{"extras":[],"marker":null,"name":"requests-toolbelt","specifier":">=0.9.1","url":null}
+{"extras":[],"marker":null,"name":"multidict","specifier":">=4.7.0","url":null}
+{"extras":[],"marker":null,"name":"setuptools","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"rich","specifier":">=9.10.0","url":null}
+{"extras":[],"marker":"python_version < \"3.8\"","name":"importlib-metadata","specifier":">=1.4.0","url":null}
+{"extras":[],"marker":"sys_platform == \"win32\"","name":"colorama","specifier":">=0.2.4","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest-httpbin","specifier":">=0.0.6","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest-lazy-fixture","specifier":">=0.0.6","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"responses","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest-mock","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"werkzeug","specifier":"<2.1.0","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"flake8","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"flake8-comprehensions","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"flake8-deprecated","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"flake8-mutable","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"flake8-tuple","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pyopenssl","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pytest-cov","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pyyaml","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"twine","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"wheel","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"Jinja2","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-httpbin","specifier":">=0.0.6","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-lazy-fixture","specifier":">=0.0.6","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"responses","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-mock","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"werkzeug","specifier":"<2.1.0","url":null}

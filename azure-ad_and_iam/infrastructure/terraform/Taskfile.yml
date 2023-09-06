@@ -1,0 +1,47 @@
+# https://taskfile.dev/usage/
+# https://pkg.go.dev/text/template
+# https://go-task.github.io/slim-sprig/
+version: "3"
+
+vars:
+  TERRAFORM: terraform
+  TFSEC: docker compose run --rm tfsec
+  TFLINT: docker compose run --rm tflint --enable-plugin=google --enable-plugin=azurerm  --disable-rule=terraform_unused_declarations
+
+tasks:
+  configure:
+    desc: Configure the development environment
+    cmds:
+      - terraform init {{.CLI_ARGS}}
+  upgrade:
+    desc: Upgrade dependencies
+    cmds:
+      - terraform init -upgrade {{.CLI_ARGS}}
+  validate:
+    desc: Validate the configuration
+    cmds:
+      - terraform fmt -check -recursive -diff
+      - terraform validate
+      - '{{.TFSEC}} .'
+      - '{{.TFLINT}} .'
+  validate:fix:
+    desc: Fix validation errors
+    cmds:
+      - terraform fmt -recursive {{.CLI_ARGS}}
+  plan:
+    desc: Deploy the configuration
+    cmds:
+      - TF_CLI_ARGS= terraform plan -refresh=false {{.CLI_ARGS}}
+  deploy:
+    desc: Deploy the configuration
+    cmds:
+      - TF_CLI_ARGS= terraform apply {{.CLI_ARGS}}
+  deploy:fast:
+    desc: Deploy the configuration
+    cmds:
+      - TF_CLI_ARGS= terraform apply -refresh=false {{.CLI_ARGS}}
+  terraform:lock-providers:
+    desc: Lock providers
+    cmds:
+      # - terraform providers lock -platform=linux_arm64 -platform=linux_amd64 -platform=darwin_amd64 -platform=darwin_arm64 -platform=windows_amd64 {{.CLI_ARGS}}
+      - terraform providers lock -platform=linux_amd64 -platform=darwin_arm64 {{.CLI_ARGS}}

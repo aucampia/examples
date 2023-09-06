@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  tflint:
+    image: ghcr.io/terraform-linters/tflint-bundle:latest
+    volumes:
+      - .:/srv/workspace:z
+    working_dir: /srv/workspace
+  tfsec:
+    image: aquasec/tfsec
+    volumes:
+      - .:/srv/workspace:z
+    working_dir: /srv/workspace

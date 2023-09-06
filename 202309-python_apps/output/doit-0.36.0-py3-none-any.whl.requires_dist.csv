@@ -1,0 +1,4 @@
+name,specifier,url,extras,marker
+cloudpickle,,,[],
+importlib-metadata,>=4.4,,[],
+tomli,,,[],"python_version < ""3.11"" and extra == ""toml"""

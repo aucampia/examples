@@ -1,0 +1,7 @@
+name,specifier,url,extras,marker
+click,>=7.1.2,,[],
+cookiecutter,>=1.7,,[],
+gitpython,>=3.0,,[],
+importlib-metadata,"<5.0.0,>=2.0.0",,[],"python_version < ""3.8"""
+toml,>=0.10,,[],"python_version < ""3.11"" and extra == ""pyproject"""
+typer,>=0.4.0,,[],

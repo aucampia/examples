@@ -1,0 +1,5 @@
+{"extras":[],"marker":"extra == \"all\" or extra == \"filelock\"","name":"filelock","specifier":"<4.0.0,>=3.7.1","url":null}
+{"extras":[],"marker":"extra == \"all\" or extra == \"kubernetes\"","name":"kubernetes","specifier":"<25.0.0,>=24.2.0","url":null}
+{"extras":[],"marker":"extra == \"all\" or extra == \"memcached\"","name":"pylibmc","specifier":"<2.0.0,>=1.6.1","url":null}
+{"extras":[],"marker":"extra == \"etcd\"","name":"python-etcd","specifier":"<0.5.0,>=0.4.5","url":null}
+{"extras":[],"marker":"extra == \"all\" or extra == \"redis\"","name":"redis","specifier":"<5.0.0,>=4.3.4","url":null}

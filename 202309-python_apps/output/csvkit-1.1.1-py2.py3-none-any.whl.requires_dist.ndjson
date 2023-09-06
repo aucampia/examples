@@ -1,0 +1,9 @@
+{"extras":[],"marker":null,"name":"agate","specifier":">=1.6.1","url":null}
+{"extras":[],"marker":null,"name":"agate-excel","specifier":">=0.2.2","url":null}
+{"extras":[],"marker":null,"name":"agate-dbf","specifier":">=0.2.2","url":null}
+{"extras":[],"marker":null,"name":"agate-sql","specifier":">=0.5.3","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"sphinx","specifier":">=1.0.7","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"sphinx-rtd-theme","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"coverage","specifier":">=4.4.2","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-cov","specifier":"","url":null}

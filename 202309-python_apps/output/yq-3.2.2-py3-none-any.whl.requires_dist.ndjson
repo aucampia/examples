@@ -1,0 +1,9 @@
+{"extras":[],"marker":null,"name":"PyYAML","specifier":">=5.3.1","url":null}
+{"extras":[],"marker":null,"name":"xmltodict","specifier":">=0.11.0","url":null}
+{"extras":[],"marker":null,"name":"tomlkit","specifier":">=0.11.6","url":null}
+{"extras":[],"marker":null,"name":"argcomplete","specifier":">=1.8.1","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"coverage","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"wheel","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"build","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"ruff","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"tests\"","name":"mypy","specifier":"","url":null}

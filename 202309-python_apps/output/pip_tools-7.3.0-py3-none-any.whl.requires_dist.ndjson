@@ -1,0 +1,14 @@
+{"extras":[],"marker":null,"name":"build","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"click","specifier":">=8","url":null}
+{"extras":[],"marker":null,"name":"pip","specifier":">=22.2","url":null}
+{"extras":[],"marker":null,"name":"setuptools","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"wheel","specifier":"","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"tomli","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"coverage\"","name":"covdefaults","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"coverage\"","name":"pytest-cov","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"pytest","specifier":">=7.2.0","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"pytest-rerunfailures","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"pytest-xdist","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"tomli-w","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"flit-core","specifier":"<4,>=2","url":null}
+{"extras":[],"marker":"extra == \"testing\"","name":"poetry-core","specifier":">=1.0.0","url":null}

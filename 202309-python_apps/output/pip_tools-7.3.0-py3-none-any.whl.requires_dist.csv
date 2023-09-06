@@ -1,0 +1,15 @@
+name,specifier,url,extras,marker
+build,,,[],
+click,>=8,,[],
+pip,>=22.2,,[],
+setuptools,,,[],
+wheel,,,[],
+tomli,,,[],"python_version < ""3.11"""
+covdefaults,,,[],"extra == ""coverage"""
+pytest-cov,,,[],"extra == ""coverage"""
+pytest,>=7.2.0,,[],"extra == ""testing"""
+pytest-rerunfailures,,,[],"extra == ""testing"""
+pytest-xdist,,,[],"extra == ""testing"""
+tomli-w,,,[],"extra == ""testing"""
+flit-core,"<4,>=2",,[],"extra == ""testing"""
+poetry-core,>=1.0.0,,[],"extra == ""testing"""

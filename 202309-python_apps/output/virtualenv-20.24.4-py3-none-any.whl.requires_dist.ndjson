@@ -1,0 +1,23 @@
+{"extras":[],"marker":null,"name":"distlib","specifier":"<1,>=0.3.7","url":null}
+{"extras":[],"marker":null,"name":"filelock","specifier":"<4,>=3.12.2","url":null}
+{"extras":[],"marker":"python_version < \"3.8\"","name":"importlib-metadata","specifier":">=6.6","url":null}
+{"extras":[],"marker":null,"name":"platformdirs","specifier":"<4,>=3.9.1","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"furo","specifier":">=2023.7.26","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"proselint","specifier":">=0.13","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"sphinx-argparse","specifier":">=0.4","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"sphinx","specifier":">=7.1.2","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"sphinxcontrib-towncrier","specifier":">=0.2.1a0","url":null}
+{"extras":[],"marker":"extra == \"docs\"","name":"towncrier","specifier":">=23.6","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"covdefaults","specifier":">=2.3","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"coverage-enable-subprocess","specifier":">=1","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"coverage","specifier":">=7.2.7","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"flaky","specifier":">=3.7","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"packaging","specifier":">=23.1","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-env","specifier":">=0.8.2","url":null}
+{"extras":[],"marker":"platform_python_implementation == \"PyPy\" and extra == \"test\"","name":"pytest-freezer","specifier":">=0.4.8","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-mock","specifier":">=3.11.1","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-randomly","specifier":">=3.12","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-timeout","specifier":">=2.1","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest","specifier":">=7.4","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"setuptools","specifier":">=68","url":null}
+{"extras":[],"marker":"platform_python_implementation == \"CPython\" and extra == \"test\"","name":"time-machine","specifier":">=2.10","url":null}

@@ -1,0 +1,42 @@
+{"extras":[],"marker":"extra == \"bestshell\"","name":"prompt-toolkit","specifier":">=3.0.29","url":null}
+{"extras":[],"marker":"extra == \"bestshell\"","name":"pygments","specifier":">=2.2","url":null}
+{"extras":["doc","test"],"marker":"extra == \"dev\"","name":"xonsh","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"pre-commit","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"re-ver","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"dev\"","name":"tomli","specifier":"","url":null}
+{"extras":["bestshell"],"marker":"extra == \"doc\"","name":"xonsh","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"furo","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"numpydoc","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"sphinx","specifier":"<5,>=3.1","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"psutil","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"pyzmq","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"matplotlib","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"doctr","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"tornado","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"runthis-sphinxext","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"livereload","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"myst-parser","specifier":"","url":null}
+{"extras":["ptk","pygments"],"marker":"extra == \"full\"","name":"xonsh","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"full\"","name":"ujson","specifier":"","url":null}
+{"extras":[],"marker":"platform_system == \"Darwin\" and extra == \"full\"","name":"gnureadline","specifier":"","url":null}
+{"extras":[],"marker":"platform_system == \"Linux\" and extra == \"full\"","name":"distro","specifier":"","url":null}
+{"extras":[],"marker":"platform_system == \"Windows\" and extra == \"full\"","name":"setproctitle","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"linux\"","name":"distro","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"mac\"","name":"gnureadline","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"proctitle\"","name":"setproctitle","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"ptk\"","name":"prompt-toolkit","specifier":">=3.0.29","url":null}
+{"extras":[],"marker":"extra == \"ptk\"","name":"pyperclip","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"pygments\"","name":"pygments","specifier":">=2.2","url":null}
+{"extras":["bestshell"],"marker":"extra == \"test\"","name":"xonsh","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest","specifier":">=7","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"restructuredtext-lint","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-cov","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-mock","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-timeout","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-subprocess","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-rerunfailures","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"prompt-toolkit","specifier":">=3.0.29","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pygments","specifier":">=2.2","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"coverage","specifier":">=5.3.1","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pyte","specifier":">=0.8.0","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"virtualenv","specifier":">=20.16.2","url":null}

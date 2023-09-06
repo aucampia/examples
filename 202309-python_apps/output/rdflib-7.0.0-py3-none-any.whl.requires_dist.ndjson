@@ -1,0 +1,6 @@
+{"extras":[],"marker":"extra == \"berkeleydb\"","name":"berkeleydb","specifier":"<19.0.0,>=18.1.0","url":null}
+{"extras":[],"marker":"extra == \"html\"","name":"html5lib","specifier":"<2.0,>=1.0","url":null}
+{"extras":[],"marker":null,"name":"isodate","specifier":"<0.7.0,>=0.6.0","url":null}
+{"extras":[],"marker":"extra == \"lxml\"","name":"lxml","specifier":"<5.0.0,>=4.3.0","url":null}
+{"extras":[],"marker":"extra == \"networkx\"","name":"networkx","specifier":"<3.0.0,>=2.0.0","url":null}
+{"extras":[],"marker":null,"name":"pyparsing","specifier":"<4,>=2.1.0","url":null}

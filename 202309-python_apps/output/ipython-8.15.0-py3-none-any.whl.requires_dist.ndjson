@@ -1,0 +1,72 @@
+{"extras":[],"marker":null,"name":"backcall","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"decorator","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"jedi","specifier":">=0.16","url":null}
+{"extras":[],"marker":null,"name":"matplotlib-inline","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"pickleshare","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"prompt-toolkit","specifier":"!=3.0.37,<3.1.0,>=3.0.30","url":null}
+{"extras":[],"marker":null,"name":"pygments","specifier":">=2.4.0","url":null}
+{"extras":[],"marker":null,"name":"stack-data","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"traitlets","specifier":">=5","url":null}
+{"extras":[],"marker":"python_version < \"3.10\"","name":"typing-extensions","specifier":"","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"exceptiongroup","specifier":"","url":null}
+{"extras":[],"marker":"sys_platform != \"win32\"","name":"pexpect","specifier":">4.3","url":null}
+{"extras":[],"marker":"sys_platform == \"darwin\"","name":"appnope","specifier":"","url":null}
+{"extras":[],"marker":"sys_platform == \"win32\"","name":"colorama","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"black","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"ipykernel","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"setuptools","specifier":">=18.5","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"sphinx","specifier":">=1.3","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"sphinx-rtd-theme","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"docrepr","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"matplotlib","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"stack-data","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"pytest","specifier":"<7","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"typing-extensions","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"exceptiongroup","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"pytest","specifier":"<7.1","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"pytest-asyncio","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"testpath","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"nbconvert","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"nbformat","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"ipywidgets","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"notebook","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"ipyparallel","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"qtconsole","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"curio","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"matplotlib","specifier":"!=3.2.0","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"numpy","specifier":">=1.21","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"pandas","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"all\"","name":"trio","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"black\"","name":"black","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"ipykernel","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"setuptools","specifier":">=18.5","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"sphinx","specifier":">=1.3","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"sphinx-rtd-theme","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"docrepr","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"matplotlib","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"stack-data","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"pytest","specifier":"<7","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"typing-extensions","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"exceptiongroup","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"pytest","specifier":"<7.1","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"pytest-asyncio","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"doc\"","name":"testpath","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"kernel\"","name":"ipykernel","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"nbconvert\"","name":"nbconvert","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"nbformat\"","name":"nbformat","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"notebook\"","name":"ipywidgets","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"notebook\"","name":"notebook","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"parallel\"","name":"ipyparallel","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"qtconsole\"","name":"qtconsole","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest","specifier":"<7.1","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"pytest-asyncio","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test\"","name":"testpath","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"pytest","specifier":"<7.1","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"pytest-asyncio","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"testpath","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"curio","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"matplotlib","specifier":"!=3.2.0","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"nbformat","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"numpy","specifier":">=1.21","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"pandas","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"test-extra\"","name":"trio","specifier":"","url":null}

@@ -1,0 +1,7 @@
+name,specifier,url,extras,marker
+berkeleydb,"<19.0.0,>=18.1.0",,[],"extra == ""berkeleydb"""
+html5lib,"<2.0,>=1.0",,[],"extra == ""html"""
+isodate,"<0.7.0,>=0.6.0",,[],
+lxml,"<5.0.0,>=4.3.0",,[],"extra == ""lxml"""
+networkx,"<3.0.0,>=2.0.0",,[],"extra == ""networkx"""
+pyparsing,"<4,>=2.1.0",,[],

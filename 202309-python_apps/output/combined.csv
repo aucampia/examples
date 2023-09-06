@@ -1,0 +1,438 @@
+wheel,name,specifier,url,extras,marker
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,aiohttp,>=3.7.4,,[],"extra == ""d"""
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,click,>=8.0.0,,[],
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,colorama,>=0.4.3,,[],"extra == ""colorama"""
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,ipython,>=7.8.0,,[],"extra == ""jupyter"""
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,mypy-extensions,>=0.4.3,,[],
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,packaging,>=22.0,,[],
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,pathspec,>=0.9.0,,[],
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,platformdirs,>=2,,[],
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,tokenize-rt,>=3.2.0,,[],"extra == ""jupyter"""
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,tomli,>=1.1.0,,[],"python_version < ""3.11"""
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,typing-extensions,>=3.10.0.0,,[],"python_version < ""3.10"""
+black-23.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,uvloop,>=0.15.2,,[],"extra == ""uvloop"""
+codespell-2.2.5-py3-none-any.whl,Pygments,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,build,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,chardet,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,chardet,,,[],"extra == ""hard-encoding-detection"""
+codespell-2.2.5-py3-none-any.whl,chardet,>=5.1.0,,[],"extra == ""types"""
+codespell-2.2.5-py3-none-any.whl,mypy,,,[],"extra == ""types"""
+codespell-2.2.5-py3-none-any.whl,pytest,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,pytest,,,[],"extra == ""types"""
+codespell-2.2.5-py3-none-any.whl,pytest-cov,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,pytest-cov,,,[],"extra == ""types"""
+codespell-2.2.5-py3-none-any.whl,pytest-dependency,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,pytest-dependency,,,[],"extra == ""types"""
+codespell-2.2.5-py3-none-any.whl,ruff,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,tomli,,,[],"extra == ""dev"""
+codespell-2.2.5-py3-none-any.whl,tomli,,,[],"python_version < ""3.11"" and extra == ""toml"""
+cookiecutter-2.3.0-py3-none-any.whl,Jinja2,"<4.0.0,>=2.7",,[],
+cookiecutter-2.3.0-py3-none-any.whl,arrow,,,[],
+cookiecutter-2.3.0-py3-none-any.whl,binaryornot,>=0.4.4,,[],
+cookiecutter-2.3.0-py3-none-any.whl,click,"<9.0.0,>=7.0",,[],
+cookiecutter-2.3.0-py3-none-any.whl,python-slugify,>=4.0.0,,[],
+cookiecutter-2.3.0-py3-none-any.whl,pyyaml,>=5.3.1,,[],
+cookiecutter-2.3.0-py3-none-any.whl,requests,>=2.23.0,,[],
+cookiecutter-2.3.0-py3-none-any.whl,rich,,,[],
+copier-8.3.0-py3-none-any.whl,colorama,>=0.4.3,,[],
+copier-8.3.0-py3-none-any.whl,decorator,>=5.1.1,,[],
+copier-8.3.0-py3-none-any.whl,dunamai,>=1.7.0,,[],
+copier-8.3.0-py3-none-any.whl,funcy,>=1.17,,[],
+copier-8.3.0-py3-none-any.whl,jinja2,>=3.1.1,,[],
+copier-8.3.0-py3-none-any.whl,jinja2-ansible-filters,>=1.3.1,,[],
+copier-8.3.0-py3-none-any.whl,packaging,>=23.0,,[],
+copier-8.3.0-py3-none-any.whl,pathspec,>=0.9.0,,[],
+copier-8.3.0-py3-none-any.whl,plumbum,>=1.6.9,,[],
+copier-8.3.0-py3-none-any.whl,pydantic,>=2.0.3,,[],
+copier-8.3.0-py3-none-any.whl,pygments,>=2.7.1,,[],
+copier-8.3.0-py3-none-any.whl,pyyaml,>=5.3.1,,[],
+copier-8.3.0-py3-none-any.whl,pyyaml-include,>=1.2,,[],
+copier-8.3.0-py3-none-any.whl,questionary,>=1.8.1,,[],
+copier-8.3.0-py3-none-any.whl,typing-extensions,"<5.0.0,>=3.7.4",,[],"python_version < ""3.9"""
+coverage-7.3.1-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl,tomli,,,[],"python_full_version <= ""3.11.0a6"" and extra == ""toml"""
+cruft-2.15.0-py3-none-any.whl,click,>=7.1.2,,[],
+cruft-2.15.0-py3-none-any.whl,cookiecutter,>=1.7,,[],
+cruft-2.15.0-py3-none-any.whl,gitpython,>=3.0,,[],
+cruft-2.15.0-py3-none-any.whl,importlib-metadata,"<5.0.0,>=2.0.0",,[],"python_version < ""3.8"""
+cruft-2.15.0-py3-none-any.whl,toml,>=0.10,,[],"python_version < ""3.11"" and extra == ""pyproject"""
+cruft-2.15.0-py3-none-any.whl,typer,>=0.4.0,,[],
+csvkit-1.1.1-py2.py3-none-any.whl,agate,>=1.6.1,,[],
+csvkit-1.1.1-py2.py3-none-any.whl,agate-dbf,>=0.2.2,,[],
+csvkit-1.1.1-py2.py3-none-any.whl,agate-excel,>=0.2.2,,[],
+csvkit-1.1.1-py2.py3-none-any.whl,agate-sql,>=0.5.3,,[],
+csvkit-1.1.1-py2.py3-none-any.whl,coverage,>=4.4.2,,[],"extra == ""test"""
+csvkit-1.1.1-py2.py3-none-any.whl,pytest,,,[],"extra == ""test"""
+csvkit-1.1.1-py2.py3-none-any.whl,pytest-cov,,,[],"extra == ""test"""
+csvkit-1.1.1-py2.py3-none-any.whl,sphinx,>=1.0.7,,[],"extra == ""docs"""
+csvkit-1.1.1-py2.py3-none-any.whl,sphinx-rtd-theme,,,[],"extra == ""docs"""
+databricks_cli-0.8.7-py3-none-any.whl,click,>=6.7,,[],
+databricks_cli-0.8.7-py3-none-any.whl,configparser,>=0.3.5,,[],
+databricks_cli-0.8.7-py3-none-any.whl,requests,>=2.17.3,,[],
+databricks_cli-0.8.7-py3-none-any.whl,six,>=1.10.0,,[],
+databricks_cli-0.8.7-py3-none-any.whl,tabulate,>=0.7.7,,[],
+doit-0.36.0-py3-none-any.whl,cloudpickle,,,[],
+doit-0.36.0-py3-none-any.whl,importlib-metadata,>=4.4,,[],
+doit-0.36.0-py3-none-any.whl,tomli,,,[],"python_version < ""3.11"" and extra == ""toml"""
+flake8-6.1.0-py2.py3-none-any.whl,mccabe,"<0.8.0,>=0.7.0",,[],
+flake8-6.1.0-py2.py3-none-any.whl,pycodestyle,"<2.12.0,>=2.11.0",,[],
+flake8-6.1.0-py2.py3-none-any.whl,pyflakes,"<3.2.0,>=3.1.0",,[],
+httpie-3.2.2-py3-none-any.whl,Jinja2,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,Pygments,>=2.5.2,,[],
+httpie-3.2.2-py3-none-any.whl,charset-normalizer,>=2.0.0,,[],
+httpie-3.2.2-py3-none-any.whl,colorama,>=0.2.4,,[],"sys_platform == ""win32"""
+httpie-3.2.2-py3-none-any.whl,defusedxml,>=0.6.0,,[],
+httpie-3.2.2-py3-none-any.whl,flake8,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,flake8-comprehensions,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,flake8-deprecated,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,flake8-mutable,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,flake8-tuple,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,importlib-metadata,>=1.4.0,,[],"python_version < ""3.8"""
+httpie-3.2.2-py3-none-any.whl,multidict,>=4.7.0,,[],
+httpie-3.2.2-py3-none-any.whl,pip,,,[],
+httpie-3.2.2-py3-none-any.whl,pyopenssl,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,pytest,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,pytest,,,[],"extra == ""test"""
+httpie-3.2.2-py3-none-any.whl,pytest-cov,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,pytest-httpbin,>=0.0.6,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,pytest-httpbin,>=0.0.6,,[],"extra == ""test"""
+httpie-3.2.2-py3-none-any.whl,pytest-lazy-fixture,>=0.0.6,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,pytest-lazy-fixture,>=0.0.6,,[],"extra == ""test"""
+httpie-3.2.2-py3-none-any.whl,pytest-mock,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,pytest-mock,,,[],"extra == ""test"""
+httpie-3.2.2-py3-none-any.whl,pyyaml,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,requests,>=2.22.0,,"[""socks""]",
+httpie-3.2.2-py3-none-any.whl,requests-toolbelt,>=0.9.1,,[],
+httpie-3.2.2-py3-none-any.whl,responses,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,responses,,,[],"extra == ""test"""
+httpie-3.2.2-py3-none-any.whl,rich,>=9.10.0,,[],
+httpie-3.2.2-py3-none-any.whl,setuptools,,,[],
+httpie-3.2.2-py3-none-any.whl,twine,,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,werkzeug,<2.1.0,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,werkzeug,<2.1.0,,[],"extra == ""test"""
+httpie-3.2.2-py3-none-any.whl,wheel,,,[],"extra == ""dev"""
+ipython-8.15.0-py3-none-any.whl,appnope,,,[],"sys_platform == ""darwin"""
+ipython-8.15.0-py3-none-any.whl,backcall,,,[],
+ipython-8.15.0-py3-none-any.whl,black,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,black,,,[],"extra == ""black"""
+ipython-8.15.0-py3-none-any.whl,colorama,,,[],"sys_platform == ""win32"""
+ipython-8.15.0-py3-none-any.whl,curio,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,curio,,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,decorator,,,[],
+ipython-8.15.0-py3-none-any.whl,docrepr,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,docrepr,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,exceptiongroup,,,[],"python_version < ""3.11"""
+ipython-8.15.0-py3-none-any.whl,exceptiongroup,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,exceptiongroup,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,ipykernel,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,ipykernel,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,ipykernel,,,[],"extra == ""kernel"""
+ipython-8.15.0-py3-none-any.whl,ipyparallel,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,ipyparallel,,,[],"extra == ""parallel"""
+ipython-8.15.0-py3-none-any.whl,ipywidgets,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,ipywidgets,,,[],"extra == ""notebook"""
+ipython-8.15.0-py3-none-any.whl,jedi,>=0.16,,[],
+ipython-8.15.0-py3-none-any.whl,matplotlib,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,matplotlib,!=3.2.0,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,matplotlib,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,matplotlib,!=3.2.0,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,matplotlib-inline,,,[],
+ipython-8.15.0-py3-none-any.whl,nbconvert,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,nbconvert,,,[],"extra == ""nbconvert"""
+ipython-8.15.0-py3-none-any.whl,nbformat,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,nbformat,,,[],"extra == ""nbformat"""
+ipython-8.15.0-py3-none-any.whl,nbformat,,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,notebook,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,notebook,,,[],"extra == ""notebook"""
+ipython-8.15.0-py3-none-any.whl,numpy,>=1.21,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,numpy,>=1.21,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,pandas,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,pandas,,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,pexpect,>4.3,,[],"sys_platform != ""win32"""
+ipython-8.15.0-py3-none-any.whl,pickleshare,,,[],
+ipython-8.15.0-py3-none-any.whl,prompt-toolkit,"!=3.0.37,<3.1.0,>=3.0.30",,[],
+ipython-8.15.0-py3-none-any.whl,pygments,>=2.4.0,,[],
+ipython-8.15.0-py3-none-any.whl,pytest,<7,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""test"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,pytest-asyncio,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,pytest-asyncio,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,pytest-asyncio,,,[],"extra == ""test"""
+ipython-8.15.0-py3-none-any.whl,pytest-asyncio,,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,qtconsole,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,qtconsole,,,[],"extra == ""qtconsole"""
+ipython-8.15.0-py3-none-any.whl,setuptools,>=18.5,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,setuptools,>=18.5,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,sphinx,>=1.3,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,sphinx,>=1.3,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,sphinx-rtd-theme,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,sphinx-rtd-theme,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,stack-data,,,[],
+ipython-8.15.0-py3-none-any.whl,stack-data,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,stack-data,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,testpath,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,testpath,,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,testpath,,,[],"extra == ""test"""
+ipython-8.15.0-py3-none-any.whl,testpath,,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,traitlets,>=5,,[],
+ipython-8.15.0-py3-none-any.whl,trio,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,trio,,,[],"extra == ""test-extra"""
+ipython-8.15.0-py3-none-any.whl,typing-extensions,,,[],"python_version < ""3.10"""
+ipython-8.15.0-py3-none-any.whl,typing-extensions,,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,typing-extensions,,,[],"extra == ""doc"""
+jc-1.23.4-py3-none-any.whl,Pygments,>=2.3.0,,[],
+jc-1.23.4-py3-none-any.whl,ruamel.yaml,>=0.15.0,,[],
+jc-1.23.4-py3-none-any.whl,xmltodict,>=0.12.0,,[],
+mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,lxml,,,[],"extra == ""reports"""
+mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,mypy-extensions,>=1.0.0,,[],
+mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,pip,,,[],"extra == ""install-types"""
+mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,psutil,>=4.0,,[],"extra == ""dmypy"""
+mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,tomli,>=1.1.0,,[],"python_version < ""3.11"""
+mypy-1.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,typing-extensions,>=4.1.0,,[],
+pgcli-3.5.0-py3-none-any.whl,Pygments,>=2.0,,[],
+pgcli-3.5.0-py3-none-any.whl,cli-helpers,>=2.2.1,,"[""styles""]",
+pgcli-3.5.0-py3-none-any.whl,click,>=4.1,,[],
+pgcli-3.5.0-py3-none-any.whl,configobj,>=5.0.6,,[],
+pgcli-3.5.0-py3-none-any.whl,keyring,>=12.2.0,,[],"extra == ""keyring"""
+pgcli-3.5.0-py3-none-any.whl,pendulum,>=2.1.0,,[],
+pgcli-3.5.0-py3-none-any.whl,pgspecial,>=2.0.0,,[],
+pgcli-3.5.0-py3-none-any.whl,prompt-toolkit,"<4.0.0,>=2.0.6",,[],
+pgcli-3.5.0-py3-none-any.whl,psycopg,>=3.0.14,,[],
+pgcli-3.5.0-py3-none-any.whl,setproctitle,>=1.1.9,,[],
+pgcli-3.5.0-py3-none-any.whl,sqlparse,"<0.5,>=0.3.0",,[],
+pgcli-3.5.0-py3-none-any.whl,sshtunnel,>=0.4.0,,[],"extra == ""sshtunnel"""
+pip_tools-7.3.0-py3-none-any.whl,build,,,[],
+pip_tools-7.3.0-py3-none-any.whl,click,>=8,,[],
+pip_tools-7.3.0-py3-none-any.whl,covdefaults,,,[],"extra == ""coverage"""
+pip_tools-7.3.0-py3-none-any.whl,flit-core,"<4,>=2",,[],"extra == ""testing"""
+pip_tools-7.3.0-py3-none-any.whl,pip,>=22.2,,[],
+pip_tools-7.3.0-py3-none-any.whl,poetry-core,>=1.0.0,,[],"extra == ""testing"""
+pip_tools-7.3.0-py3-none-any.whl,pytest,>=7.2.0,,[],"extra == ""testing"""
+pip_tools-7.3.0-py3-none-any.whl,pytest-cov,,,[],"extra == ""coverage"""
+pip_tools-7.3.0-py3-none-any.whl,pytest-rerunfailures,,,[],"extra == ""testing"""
+pip_tools-7.3.0-py3-none-any.whl,pytest-xdist,,,[],"extra == ""testing"""
+pip_tools-7.3.0-py3-none-any.whl,setuptools,,,[],
+pip_tools-7.3.0-py3-none-any.whl,tomli,,,[],"python_version < ""3.11"""
+pip_tools-7.3.0-py3-none-any.whl,tomli-w,,,[],"extra == ""testing"""
+pip_tools-7.3.0-py3-none-any.whl,wheel,,,[],
+pipenv-2023.9.1-py3-none-any.whl,beautifulsoup4,,,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,black,==23.3.0,,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,certifi,,,[],
+pipenv-2023.9.1-py3-none-any.whl,flake8,"<4.0,>=3.3.0",,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,flaky,,,[],"extra == ""tests"""
+pipenv-2023.9.1-py3-none-any.whl,invoke,,,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,mock,,,[],"extra == ""tests"""
+pipenv-2023.9.1-py3-none-any.whl,parver,,,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,pytest,>=5.0,,[],"extra == ""tests"""
+pipenv-2023.9.1-py3-none-any.whl,pytest-timeout,,,[],"extra == ""tests"""
+pipenv-2023.9.1-py3-none-any.whl,pytest-xdist,,,[],"extra == ""tests"""
+pipenv-2023.9.1-py3-none-any.whl,setuptools,>=67.0.0,,[],
+pipenv-2023.9.1-py3-none-any.whl,sphinx,,,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,towncrier,,,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,virtualenv,>=20.24.2,,[],
+pipx-1.2.0-py3-none-any.whl,argcomplete,>=1.9.4,,[],
+pipx-1.2.0-py3-none-any.whl,colorama,>=0.4.4,,[],"sys_platform == ""win32"""
+pipx-1.2.0-py3-none-any.whl,importlib-metadata,>=3.3.0,,[],"python_version < ""3.8"""
+pipx-1.2.0-py3-none-any.whl,packaging,>=20.0,,[],
+pipx-1.2.0-py3-none-any.whl,userpath,>=1.6.0,,[],
+poetry-1.6.1-py3-none-any.whl,build,"<0.11.0,>=0.10.0",,[],
+poetry-1.6.1-py3-none-any.whl,cachecontrol,"<0.14.0,>=0.13.0",,"[""filecache""]",
+poetry-1.6.1-py3-none-any.whl,cleo,"<3.0.0,>=2.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,crashtest,"<0.5.0,>=0.4.1",,[],
+poetry-1.6.1-py3-none-any.whl,dulwich,"<0.22.0,>=0.21.2",,[],
+poetry-1.6.1-py3-none-any.whl,importlib-metadata,>=4.4,,[],"python_version < ""3.10"""
+poetry-1.6.1-py3-none-any.whl,installer,"<0.8.0,>=0.7.0",,[],
+poetry-1.6.1-py3-none-any.whl,jsonschema,"<4.18.0,>=4.10.0",,[],
+poetry-1.6.1-py3-none-any.whl,keyring,"<25.0.0,>=24.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,packaging,>=20.4,,[],
+poetry-1.6.1-py3-none-any.whl,pexpect,"<5.0.0,>=4.7.0",,[],
+poetry-1.6.1-py3-none-any.whl,pkginfo,"<2.0.0,>=1.9.4",,[],
+poetry-1.6.1-py3-none-any.whl,platformdirs,"<4.0.0,>=3.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,poetry-core,==1.7.0,,[],
+poetry-1.6.1-py3-none-any.whl,poetry-plugin-export,"<2.0.0,>=1.5.0",,[],
+poetry-1.6.1-py3-none-any.whl,pyproject-hooks,"<2.0.0,>=1.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,requests,"<3.0,>=2.26",,[],
+poetry-1.6.1-py3-none-any.whl,requests-toolbelt,"<2,>=0.9.1",,[],
+poetry-1.6.1-py3-none-any.whl,shellingham,"<2.0,>=1.5",,[],
+poetry-1.6.1-py3-none-any.whl,tomli,"<3.0.0,>=2.0.1",,[],"python_version < ""3.11"""
+poetry-1.6.1-py3-none-any.whl,tomlkit,"<1.0.0,>=0.11.4",,[],
+poetry-1.6.1-py3-none-any.whl,trove-classifiers,>=2022.5.19,,[],
+poetry-1.6.1-py3-none-any.whl,virtualenv,"<21.0.0,>=20.22.0",,[],
+poetry-1.6.1-py3-none-any.whl,xattr,"<0.11.0,>=0.10.0",,[],"sys_platform == ""darwin"""
+pycln-2.2.2-py3-none-any.whl,dataclasses,"<0.8,>=0.7",,[],"python_version == ""3.6"""
+pycln-2.2.2-py3-none-any.whl,libcst,>=0.3.10,,[],"python_version >= ""3.7"""
+pycln-2.2.2-py3-none-any.whl,libcst,"<0.4.0,>=0.3.10",,[],"python_version < ""3.7"""
+pycln-2.2.2-py3-none-any.whl,pathspec,>=0.9.0,,[],
+pycln-2.2.2-py3-none-any.whl,pyyaml,>=5.3.1,,[],
+pycln-2.2.2-py3-none-any.whl,tomlkit,>=0.11.1,,[],
+pycln-2.2.2-py3-none-any.whl,typer,>=0.4.1,,[],
+pylint-2.17.5-py3-none-any.whl,astroid,"<=2.17.0-dev0,>=2.15.6",,[],
+pylint-2.17.5-py3-none-any.whl,colorama,>=0.4.5,,[],"sys_platform == ""win32"""
+pylint-2.17.5-py3-none-any.whl,dill,>=0.2,,[],"python_version < ""3.11"""
+pylint-2.17.5-py3-none-any.whl,dill,>=0.3.6,,[],"python_version >= ""3.11"""
+pylint-2.17.5-py3-none-any.whl,gitpython,>3,,[],"extra == ""testutils"""
+pylint-2.17.5-py3-none-any.whl,isort,"<6,>=4.2.5",,[],
+pylint-2.17.5-py3-none-any.whl,mccabe,"<0.8,>=0.6",,[],
+pylint-2.17.5-py3-none-any.whl,platformdirs,>=2.2.0,,[],
+pylint-2.17.5-py3-none-any.whl,pyenchant,~=3.2,,[],"extra == ""spelling"""
+pylint-2.17.5-py3-none-any.whl,tomli,>=1.1.0,,[],"python_version < ""3.11"""
+pylint-2.17.5-py3-none-any.whl,tomlkit,>=0.10.1,,[],
+pylint-2.17.5-py3-none-any.whl,typing-extensions,>=3.10.0,,[],"python_version < ""3.10"""
+pyshacl-0.23.0-py3-none-any.whl,black,==23.3.0,,[],"extra == ""dev-lint"""
+pyshacl-0.23.0-py3-none-any.whl,coverage,"!=6.0.*,!=6.1,!=6.1.1,<7,>6",,[],"extra == ""dev-coverage"""
+pyshacl-0.23.0-py3-none-any.whl,html5lib,"<2,>=1.1",,[],
+pyshacl-0.23.0-py3-none-any.whl,mypy,"<0.900,>=0.800",,[],"python_version < ""3.10"" and extra == ""dev-type-checking"""
+pyshacl-0.23.0-py3-none-any.whl,mypy,"<0.1000,>=0.900",,[],"python_version >= ""3.10"" and extra == ""dev-type-checking"""
+pyshacl-0.23.0-py3-none-any.whl,owlrl,"<7,>=6.0.2",,[],
+pyshacl-0.23.0-py3-none-any.whl,packaging,>=21.3,,[],
+pyshacl-0.23.0-py3-none-any.whl,platformdirs,,,[],"extra == ""dev-lint"" or extra == ""dev-type-checking"" or extra == ""dev-coverage"""
+pyshacl-0.23.0-py3-none-any.whl,prettytable,"<3.0.0,>=2.2.1",,[],
+pyshacl-0.23.0-py3-none-any.whl,pyduktape2,"<0.5.0,>=0.4.3",,[],"extra == ""js"""
+pyshacl-0.23.0-py3-none-any.whl,pytest-cov,"<3.0.0,>=2.8.1",,[],"extra == ""dev-coverage"""
+pyshacl-0.23.0-py3-none-any.whl,rdflib,"<7,>=6.3.2",,[],
+pyshacl-0.23.0-py3-none-any.whl,ruff,"<0.0.268,>=0.0.267",,[],"extra == ""dev-lint"""
+pyshacl-0.23.0-py3-none-any.whl,sanic,"<23,>=22.12",,[],"extra == ""http"""
+pyshacl-0.23.0-py3-none-any.whl,sanic-cors,==2.2.0,,[],"extra == ""http"""
+pyshacl-0.23.0-py3-none-any.whl,sanic-ext,"<23.6,>=23.3",,[],"extra == ""http"""
+pyshacl-0.23.0-py3-none-any.whl,types-setuptools,,,[],"extra == ""dev-type-checking"""
+pytest-7.4.1-py3-none-any.whl,argcomplete,,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,attrs,>=19.2.0,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,colorama,,,[],"sys_platform == ""win32"""
+pytest-7.4.1-py3-none-any.whl,exceptiongroup,>=1.0.0rc8,,[],"python_version < ""3.11"""
+pytest-7.4.1-py3-none-any.whl,hypothesis,>=3.56,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,importlib-metadata,>=0.12,,[],"python_version < ""3.8"""
+pytest-7.4.1-py3-none-any.whl,iniconfig,,,[],
+pytest-7.4.1-py3-none-any.whl,mock,,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,nose,,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,packaging,,,[],
+pytest-7.4.1-py3-none-any.whl,pluggy,"<2.0,>=0.12",,[],
+pytest-7.4.1-py3-none-any.whl,pygments,>=2.7.2,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,requests,,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,setuptools,,,[],"extra == ""testing"""
+pytest-7.4.1-py3-none-any.whl,tomli,>=1.0.0,,[],"python_version < ""3.11"""
+pytest-7.4.1-py3-none-any.whl,xmlschema,,,[],"extra == ""testing"""
+pyupgrade-3.10.1-py2.py3-none-any.whl,tokenize-rt,>=5.2.0,,[],
+rdflib-7.0.0-py3-none-any.whl,berkeleydb,"<19.0.0,>=18.1.0",,[],"extra == ""berkeleydb"""
+rdflib-7.0.0-py3-none-any.whl,html5lib,"<2.0,>=1.0",,[],"extra == ""html"""
+rdflib-7.0.0-py3-none-any.whl,isodate,"<0.7.0,>=0.6.0",,[],
+rdflib-7.0.0-py3-none-any.whl,lxml,"<5.0.0,>=4.3.0",,[],"extra == ""lxml"""
+rdflib-7.0.0-py3-none-any.whl,networkx,"<3.0.0,>=2.0.0",,[],"extra == ""networkx"""
+rdflib-7.0.0-py3-none-any.whl,pyparsing,"<4,>=2.1.0",,[],
+sherlock-0.4.1-py3-none-any.whl,filelock,"<4.0.0,>=3.7.1",,[],"extra == ""all"" or extra == ""filelock"""
+sherlock-0.4.1-py3-none-any.whl,kubernetes,"<25.0.0,>=24.2.0",,[],"extra == ""all"" or extra == ""kubernetes"""
+sherlock-0.4.1-py3-none-any.whl,pylibmc,"<2.0.0,>=1.6.1",,[],"extra == ""all"" or extra == ""memcached"""
+sherlock-0.4.1-py3-none-any.whl,python-etcd,"<0.5.0,>=0.4.5",,[],"extra == ""etcd"""
+sherlock-0.4.1-py3-none-any.whl,redis,"<5.0.0,>=4.3.4",,[],"extra == ""all"" or extra == ""redis"""
+tox-4.11.1-py3-none-any.whl,build,>=0.10,,"[""virtualenv""]","extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,cachetools,>=5.3.1,,[],
+tox-4.11.1-py3-none-any.whl,chardet,>=5.2,,[],
+tox-4.11.1-py3-none-any.whl,colorama,>=0.4.6,,[],
+tox-4.11.1-py3-none-any.whl,covdefaults,>=2.3,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,detect-test-pollution,>=1.1.1,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,devpi-process,>=1,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,diff-cover,>=7.7,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,distlib,>=0.3.7,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,filelock,>=3.12.3,,[],
+tox-4.11.1-py3-none-any.whl,flaky,>=3.7,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,furo,>=2023.8.19,,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,hatch-vcs,>=0.3,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,hatchling,>=1.18,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,importlib-metadata,>=6.8,,[],"python_version < ""3.8"""
+tox-4.11.1-py3-none-any.whl,packaging,>=23.1,,[],
+tox-4.11.1-py3-none-any.whl,platformdirs,>=3.10,,[],
+tox-4.11.1-py3-none-any.whl,pluggy,>=1.3,,[],
+tox-4.11.1-py3-none-any.whl,psutil,>=5.9.5,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,pyproject-api,>=1.6.1,,[],
+tox-4.11.1-py3-none-any.whl,pytest,>=7.4,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,pytest-cov,>=4.1,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,pytest-mock,>=3.11.1,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,pytest-xdist,>=3.3.1,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,re-assert,>=1.1,,[],"extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,sphinx,>=7.2.4,,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,sphinx-argparse-cli,>=1.11.1,,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,sphinx-autodoc-typehints,"!=1.23.4,>=1.24",,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,sphinx-copybutton,>=0.5.2,,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,sphinx-inline-tabs,>=2023.4.21,,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,sphinxcontrib-towncrier,>=0.2.1a0,,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,time-machine,>=2.12,,[],"implementation_name != ""pypy"" and extra == ""testing"""
+tox-4.11.1-py3-none-any.whl,tomli,>=2.0.1,,[],"python_version < ""3.11"""
+tox-4.11.1-py3-none-any.whl,towncrier,>=23.6,,[],"extra == ""docs"""
+tox-4.11.1-py3-none-any.whl,typing-extensions,>=4.7.1,,[],"python_version < ""3.8"""
+tox-4.11.1-py3-none-any.whl,virtualenv,>=20.24.3,,[],
+tox-4.11.1-py3-none-any.whl,wheel,>=0.41.2,,[],"extra == ""testing"""
+virtualenv-20.24.4-py3-none-any.whl,covdefaults,>=2.3,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,coverage,>=7.2.7,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,coverage-enable-subprocess,>=1,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,distlib,"<1,>=0.3.7",,[],
+virtualenv-20.24.4-py3-none-any.whl,filelock,"<4,>=3.12.2",,[],
+virtualenv-20.24.4-py3-none-any.whl,flaky,>=3.7,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,furo,>=2023.7.26,,[],"extra == ""docs"""
+virtualenv-20.24.4-py3-none-any.whl,importlib-metadata,>=6.6,,[],"python_version < ""3.8"""
+virtualenv-20.24.4-py3-none-any.whl,packaging,>=23.1,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,platformdirs,"<4,>=3.9.1",,[],
+virtualenv-20.24.4-py3-none-any.whl,proselint,>=0.13,,[],"extra == ""docs"""
+virtualenv-20.24.4-py3-none-any.whl,pytest,>=7.4,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,pytest-env,>=0.8.2,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,pytest-freezer,>=0.4.8,,[],"platform_python_implementation == ""PyPy"" and extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,pytest-mock,>=3.11.1,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,pytest-randomly,>=3.12,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,pytest-timeout,>=2.1,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,setuptools,>=68,,[],"extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,sphinx,>=7.1.2,,[],"extra == ""docs"""
+virtualenv-20.24.4-py3-none-any.whl,sphinx-argparse,>=0.4,,[],"extra == ""docs"""
+virtualenv-20.24.4-py3-none-any.whl,sphinxcontrib-towncrier,>=0.2.1a0,,[],"extra == ""docs"""
+virtualenv-20.24.4-py3-none-any.whl,time-machine,>=2.10,,[],"platform_python_implementation == ""CPython"" and extra == ""test"""
+virtualenv-20.24.4-py3-none-any.whl,towncrier,>=23.6,,[],"extra == ""docs"""
+xonsh-0.14.1-py311-none-any.whl,coverage,>=5.3.1,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,distro,,,[],"platform_system == ""Linux"" and extra == ""full"""
+xonsh-0.14.1-py311-none-any.whl,distro,,,[],"extra == ""linux"""
+xonsh-0.14.1-py311-none-any.whl,doctr,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,furo,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,gnureadline,,,[],"platform_system == ""Darwin"" and extra == ""full"""
+xonsh-0.14.1-py311-none-any.whl,gnureadline,,,[],"extra == ""mac"""
+xonsh-0.14.1-py311-none-any.whl,livereload,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,matplotlib,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,myst-parser,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,numpydoc,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,pre-commit,,,[],"extra == ""dev"""
+xonsh-0.14.1-py311-none-any.whl,prompt-toolkit,>=3.0.29,,[],"extra == ""bestshell"""
+xonsh-0.14.1-py311-none-any.whl,prompt-toolkit,>=3.0.29,,[],"extra == ""ptk"""
+xonsh-0.14.1-py311-none-any.whl,prompt-toolkit,>=3.0.29,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,psutil,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,pygments,>=2.2,,[],"extra == ""bestshell"""
+xonsh-0.14.1-py311-none-any.whl,pygments,>=2.2,,[],"extra == ""pygments"""
+xonsh-0.14.1-py311-none-any.whl,pygments,>=2.2,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pyperclip,,,[],"extra == ""ptk"""
+xonsh-0.14.1-py311-none-any.whl,pyte,>=0.8.0,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pytest,>=7,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pytest-cov,,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pytest-mock,,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pytest-rerunfailures,,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pytest-subprocess,,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pytest-timeout,,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,pyzmq,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,re-ver,,,[],"extra == ""dev"""
+xonsh-0.14.1-py311-none-any.whl,restructuredtext-lint,,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,runthis-sphinxext,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,setproctitle,,,[],"platform_system == ""Windows"" and extra == ""full"""
+xonsh-0.14.1-py311-none-any.whl,setproctitle,,,[],"extra == ""proctitle"""
+xonsh-0.14.1-py311-none-any.whl,sphinx,"<5,>=3.1",,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,tomli,,,[],"extra == ""dev"""
+xonsh-0.14.1-py311-none-any.whl,tornado,,,[],"extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,ujson,,,[],"extra == ""full"""
+xonsh-0.14.1-py311-none-any.whl,virtualenv,>=20.16.2,,[],"extra == ""test"""
+xonsh-0.14.1-py311-none-any.whl,xonsh,,,"[""doc"",""test""]","extra == ""dev"""
+xonsh-0.14.1-py311-none-any.whl,xonsh,,,"[""bestshell""]","extra == ""doc"""
+xonsh-0.14.1-py311-none-any.whl,xonsh,,,"[""ptk"",""pygments""]","extra == ""full"""
+xonsh-0.14.1-py311-none-any.whl,xonsh,,,"[""bestshell""]","extra == ""test"""
+yq-3.2.2-py3-none-any.whl,PyYAML,>=5.3.1,,[],
+yq-3.2.2-py3-none-any.whl,argcomplete,>=1.8.1,,[],
+yq-3.2.2-py3-none-any.whl,build,,,[],"extra == ""tests"""
+yq-3.2.2-py3-none-any.whl,coverage,,,[],"extra == ""tests"""
+yq-3.2.2-py3-none-any.whl,mypy,,,[],"extra == ""tests"""
+yq-3.2.2-py3-none-any.whl,ruff,,,[],"extra == ""tests"""
+yq-3.2.2-py3-none-any.whl,tomlkit,>=0.11.6,,[],
+yq-3.2.2-py3-none-any.whl,wheel,,,[],"extra == ""tests"""
+yq-3.2.2-py3-none-any.whl,xmltodict,>=0.11.0,,[],

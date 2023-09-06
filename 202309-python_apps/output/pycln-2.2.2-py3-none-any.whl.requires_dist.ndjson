@@ -1,0 +1,7 @@
+{"extras":[],"marker":"python_version == \"3.6\"","name":"dataclasses","specifier":"<0.8,>=0.7","url":null}
+{"extras":[],"marker":"python_version >= \"3.7\"","name":"libcst","specifier":">=0.3.10","url":null}
+{"extras":[],"marker":"python_version < \"3.7\"","name":"libcst","specifier":"<0.4.0,>=0.3.10","url":null}
+{"extras":[],"marker":null,"name":"pathspec","specifier":">=0.9.0","url":null}
+{"extras":[],"marker":null,"name":"pyyaml","specifier":">=5.3.1","url":null}
+{"extras":[],"marker":null,"name":"tomlkit","specifier":">=0.11.1","url":null}
+{"extras":[],"marker":null,"name":"typer","specifier":">=0.4.1","url":null}

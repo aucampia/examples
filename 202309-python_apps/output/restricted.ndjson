@@ -1,0 +1,618 @@
+{
+  "wheel": "cookiecutter-2.3.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "Jinja2",
+  "specifier": "<4.0.0,>=2.7",
+  "url": null
+}
+{
+  "wheel": "cookiecutter-2.3.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "click",
+  "specifier": "<9.0.0,>=7.0",
+  "url": null
+}
+{
+  "wheel": "copier-8.3.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "python_version < \"3.9\"",
+  "name": "typing-extensions",
+  "specifier": "<5.0.0,>=3.7.4",
+  "url": null
+}
+{
+  "wheel": "cruft-2.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "python_version < \"3.8\"",
+  "name": "importlib-metadata",
+  "specifier": "<5.0.0,>=2.0.0",
+  "url": null
+}
+{
+  "wheel": "flake8-6.1.0-py2.py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "mccabe",
+  "specifier": "<0.8.0,>=0.7.0",
+  "url": null
+}
+{
+  "wheel": "flake8-6.1.0-py2.py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "pycodestyle",
+  "specifier": "<2.12.0,>=2.11.0",
+  "url": null
+}
+{
+  "wheel": "flake8-6.1.0-py2.py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "pyflakes",
+  "specifier": "<3.2.0,>=3.1.0",
+  "url": null
+}
+{
+  "wheel": "httpie-3.2.2-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"dev\"",
+  "name": "werkzeug",
+  "specifier": "<2.1.0",
+  "url": null
+}
+{
+  "wheel": "httpie-3.2.2-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"test\"",
+  "name": "werkzeug",
+  "specifier": "<2.1.0",
+  "url": null
+}
+{
+  "wheel": "ipython-8.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "prompt-toolkit",
+  "specifier": "!=3.0.37,<3.1.0,>=3.0.30",
+  "url": null
+}
+{
+  "wheel": "ipython-8.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"all\"",
+  "name": "pytest",
+  "specifier": "<7",
+  "url": null
+}
+{
+  "wheel": "ipython-8.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"all\"",
+  "name": "pytest",
+  "specifier": "<7.1",
+  "url": null
+}
+{
+  "wheel": "ipython-8.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"doc\"",
+  "name": "pytest",
+  "specifier": "<7",
+  "url": null
+}
+{
+  "wheel": "ipython-8.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"doc\"",
+  "name": "pytest",
+  "specifier": "<7.1",
+  "url": null
+}
+{
+  "wheel": "ipython-8.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"test\"",
+  "name": "pytest",
+  "specifier": "<7.1",
+  "url": null
+}
+{
+  "wheel": "ipython-8.15.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"test-extra\"",
+  "name": "pytest",
+  "specifier": "<7.1",
+  "url": null
+}
+{
+  "wheel": "pgcli-3.5.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "prompt-toolkit",
+  "specifier": "<4.0.0,>=2.0.6",
+  "url": null
+}
+{
+  "wheel": "pgcli-3.5.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "sqlparse",
+  "specifier": "<0.5,>=0.3.0",
+  "url": null
+}
+{
+  "wheel": "pipenv-2023.9.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"dev\"",
+  "name": "flake8",
+  "specifier": "<4.0,>=3.3.0",
+  "url": null
+}
+{
+  "wheel": "pipenv-2023.9.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"dev\"",
+  "name": "black",
+  "specifier": "==23.3.0",
+  "url": null
+}
+{
+  "wheel": "pip_tools-7.3.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"testing\"",
+  "name": "flit-core",
+  "specifier": "<4,>=2",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "build",
+  "specifier": "<0.11.0,>=0.10.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [
+    "filecache"
+  ],
+  "marker": null,
+  "name": "cachecontrol",
+  "specifier": "<0.14.0,>=0.13.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "cleo",
+  "specifier": "<3.0.0,>=2.0.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "crashtest",
+  "specifier": "<0.5.0,>=0.4.1",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "dulwich",
+  "specifier": "<0.22.0,>=0.21.2",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "installer",
+  "specifier": "<0.8.0,>=0.7.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "jsonschema",
+  "specifier": "<4.18.0,>=4.10.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "keyring",
+  "specifier": "<25.0.0,>=24.0.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "pexpect",
+  "specifier": "<5.0.0,>=4.7.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "pkginfo",
+  "specifier": "<2.0.0,>=1.9.4",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "platformdirs",
+  "specifier": "<4.0.0,>=3.0.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "poetry-core",
+  "specifier": "==1.7.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "poetry-plugin-export",
+  "specifier": "<2.0.0,>=1.5.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "pyproject-hooks",
+  "specifier": "<2.0.0,>=1.0.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "requests",
+  "specifier": "<3.0,>=2.26",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "requests-toolbelt",
+  "specifier": "<2,>=0.9.1",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "shellingham",
+  "specifier": "<2.0,>=1.5",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "python_version < \"3.11\"",
+  "name": "tomli",
+  "specifier": "<3.0.0,>=2.0.1",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "tomlkit",
+  "specifier": "<1.0.0,>=0.11.4",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "virtualenv",
+  "specifier": "<21.0.0,>=20.22.0",
+  "url": null
+}
+{
+  "wheel": "poetry-1.6.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "sys_platform == \"darwin\"",
+  "name": "xattr",
+  "specifier": "<0.11.0,>=0.10.0",
+  "url": null
+}
+{
+  "wheel": "pycln-2.2.2-py3-none-any.whl",
+  "extras": [],
+  "marker": "python_version == \"3.6\"",
+  "name": "dataclasses",
+  "specifier": "<0.8,>=0.7",
+  "url": null
+}
+{
+  "wheel": "pycln-2.2.2-py3-none-any.whl",
+  "extras": [],
+  "marker": "python_version < \"3.7\"",
+  "name": "libcst",
+  "specifier": "<0.4.0,>=0.3.10",
+  "url": null
+}
+{
+  "wheel": "pylint-2.17.5-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "astroid",
+  "specifier": "<=2.17.0-dev0,>=2.15.6",
+  "url": null
+}
+{
+  "wheel": "pylint-2.17.5-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "isort",
+  "specifier": "<6,>=4.2.5",
+  "url": null
+}
+{
+  "wheel": "pylint-2.17.5-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "mccabe",
+  "specifier": "<0.8,>=0.6",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"dev-lint\"",
+  "name": "black",
+  "specifier": "==23.3.0",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"dev-coverage\"",
+  "name": "coverage",
+  "specifier": "!=6.0.*,!=6.1,!=6.1.1,<7,>6",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "html5lib",
+  "specifier": "<2,>=1.1",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "python_version < \"3.10\" and extra == \"dev-type-checking\"",
+  "name": "mypy",
+  "specifier": "<0.900,>=0.800",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "python_version >= \"3.10\" and extra == \"dev-type-checking\"",
+  "name": "mypy",
+  "specifier": "<0.1000,>=0.900",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "owlrl",
+  "specifier": "<7,>=6.0.2",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "prettytable",
+  "specifier": "<3.0.0,>=2.2.1",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"js\"",
+  "name": "pyduktape2",
+  "specifier": "<0.5.0,>=0.4.3",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"dev-coverage\"",
+  "name": "pytest-cov",
+  "specifier": "<3.0.0,>=2.8.1",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "rdflib",
+  "specifier": "<7,>=6.3.2",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"dev-lint\"",
+  "name": "ruff",
+  "specifier": "<0.0.268,>=0.0.267",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"http\"",
+  "name": "sanic",
+  "specifier": "<23,>=22.12",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"http\"",
+  "name": "sanic-cors",
+  "specifier": "==2.2.0",
+  "url": null
+}
+{
+  "wheel": "pyshacl-0.23.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"http\"",
+  "name": "sanic-ext",
+  "specifier": "<23.6,>=23.3",
+  "url": null
+}
+{
+  "wheel": "pytest-7.4.1-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "pluggy",
+  "specifier": "<2.0,>=0.12",
+  "url": null
+}
+{
+  "wheel": "rdflib-7.0.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"berkeleydb\"",
+  "name": "berkeleydb",
+  "specifier": "<19.0.0,>=18.1.0",
+  "url": null
+}
+{
+  "wheel": "rdflib-7.0.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"html\"",
+  "name": "html5lib",
+  "specifier": "<2.0,>=1.0",
+  "url": null
+}
+{
+  "wheel": "rdflib-7.0.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "isodate",
+  "specifier": "<0.7.0,>=0.6.0",
+  "url": null
+}
+{
+  "wheel": "rdflib-7.0.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"lxml\"",
+  "name": "lxml",
+  "specifier": "<5.0.0,>=4.3.0",
+  "url": null
+}
+{
+  "wheel": "rdflib-7.0.0-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"networkx\"",
+  "name": "networkx",
+  "specifier": "<3.0.0,>=2.0.0",
+  "url": null
+}
+{
+  "wheel": "rdflib-7.0.0-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "pyparsing",
+  "specifier": "<4,>=2.1.0",
+  "url": null
+}
+{
+  "wheel": "sherlock-0.4.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"all\" or extra == \"filelock\"",
+  "name": "filelock",
+  "specifier": "<4.0.0,>=3.7.1",
+  "url": null
+}
+{
+  "wheel": "sherlock-0.4.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"all\" or extra == \"kubernetes\"",
+  "name": "kubernetes",
+  "specifier": "<25.0.0,>=24.2.0",
+  "url": null
+}
+{
+  "wheel": "sherlock-0.4.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"all\" or extra == \"memcached\"",
+  "name": "pylibmc",
+  "specifier": "<2.0.0,>=1.6.1",
+  "url": null
+}
+{
+  "wheel": "sherlock-0.4.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"etcd\"",
+  "name": "python-etcd",
+  "specifier": "<0.5.0,>=0.4.5",
+  "url": null
+}
+{
+  "wheel": "sherlock-0.4.1-py3-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"all\" or extra == \"redis\"",
+  "name": "redis",
+  "specifier": "<5.0.0,>=4.3.4",
+  "url": null
+}
+{
+  "wheel": "virtualenv-20.24.4-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "distlib",
+  "specifier": "<1,>=0.3.7",
+  "url": null
+}
+{
+  "wheel": "virtualenv-20.24.4-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "filelock",
+  "specifier": "<4,>=3.12.2",
+  "url": null
+}
+{
+  "wheel": "virtualenv-20.24.4-py3-none-any.whl",
+  "extras": [],
+  "marker": null,
+  "name": "platformdirs",
+  "specifier": "<4,>=3.9.1",
+  "url": null
+}
+{
+  "wheel": "xonsh-0.14.1-py311-none-any.whl",
+  "extras": [],
+  "marker": "extra == \"doc\"",
+  "name": "sphinx",
+  "specifier": "<5,>=3.1",
+  "url": null
+}

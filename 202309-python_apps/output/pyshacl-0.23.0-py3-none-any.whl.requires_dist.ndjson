@@ -1,0 +1,17 @@
+{"extras":[],"marker":"extra == \"dev-lint\"","name":"black","specifier":"==23.3.0","url":null}
+{"extras":[],"marker":"extra == \"dev-coverage\"","name":"coverage","specifier":"!=6.0.*,!=6.1,!=6.1.1,<7,>6","url":null}
+{"extras":[],"marker":null,"name":"html5lib","specifier":"<2,>=1.1","url":null}
+{"extras":[],"marker":"python_version < \"3.10\" and extra == \"dev-type-checking\"","name":"mypy","specifier":"<0.900,>=0.800","url":null}
+{"extras":[],"marker":"python_version >= \"3.10\" and extra == \"dev-type-checking\"","name":"mypy","specifier":"<0.1000,>=0.900","url":null}
+{"extras":[],"marker":null,"name":"owlrl","specifier":"<7,>=6.0.2","url":null}
+{"extras":[],"marker":null,"name":"packaging","specifier":">=21.3","url":null}
+{"extras":[],"marker":"extra == \"dev-lint\" or extra == \"dev-type-checking\" or extra == \"dev-coverage\"","name":"platformdirs","specifier":"","url":null}
+{"extras":[],"marker":null,"name":"prettytable","specifier":"<3.0.0,>=2.2.1","url":null}
+{"extras":[],"marker":"extra == \"js\"","name":"pyduktape2","specifier":"<0.5.0,>=0.4.3","url":null}
+{"extras":[],"marker":"extra == \"dev-coverage\"","name":"pytest-cov","specifier":"<3.0.0,>=2.8.1","url":null}
+{"extras":[],"marker":null,"name":"rdflib","specifier":"<7,>=6.3.2","url":null}
+{"extras":[],"marker":"extra == \"dev-lint\"","name":"ruff","specifier":"<0.0.268,>=0.0.267","url":null}
+{"extras":[],"marker":"extra == \"http\"","name":"sanic","specifier":"<23,>=22.12","url":null}
+{"extras":[],"marker":"extra == \"http\"","name":"sanic-cors","specifier":"==2.2.0","url":null}
+{"extras":[],"marker":"extra == \"http\"","name":"sanic-ext","specifier":"<23.6,>=23.3","url":null}
+{"extras":[],"marker":"extra == \"dev-type-checking\"","name":"types-setuptools","specifier":"","url":null}

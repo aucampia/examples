@@ -1,0 +1,5 @@
+{"extras":[],"marker":null,"name":"argcomplete","specifier":">=1.9.4","url":null}
+{"extras":[],"marker":"sys_platform == \"win32\"","name":"colorama","specifier":">=0.4.4","url":null}
+{"extras":[],"marker":"python_version < \"3.8\"","name":"importlib-metadata","specifier":">=3.3.0","url":null}
+{"extras":[],"marker":null,"name":"packaging","specifier":">=20.0","url":null}
+{"extras":[],"marker":null,"name":"userpath","specifier":">=1.6.0","url":null}

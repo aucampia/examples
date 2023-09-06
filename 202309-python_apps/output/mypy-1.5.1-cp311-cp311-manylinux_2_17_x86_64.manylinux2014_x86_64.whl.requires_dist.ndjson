@@ -1,0 +1,6 @@
+{"extras":[],"marker":null,"name":"typing-extensions","specifier":">=4.1.0","url":null}
+{"extras":[],"marker":null,"name":"mypy-extensions","specifier":">=1.0.0","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"tomli","specifier":">=1.1.0","url":null}
+{"extras":[],"marker":"extra == \"dmypy\"","name":"psutil","specifier":">=4.0","url":null}
+{"extras":[],"marker":"extra == \"install-types\"","name":"pip","specifier":"","url":null}
+{"extras":[],"marker":"extra == \"reports\"","name":"lxml","specifier":"","url":null}

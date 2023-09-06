@@ -1,0 +1,12 @@
+{"extras":[],"marker":null,"name":"click","specifier":">=8.0.0","url":null}
+{"extras":[],"marker":null,"name":"mypy-extensions","specifier":">=0.4.3","url":null}
+{"extras":[],"marker":null,"name":"packaging","specifier":">=22.0","url":null}
+{"extras":[],"marker":null,"name":"pathspec","specifier":">=0.9.0","url":null}
+{"extras":[],"marker":null,"name":"platformdirs","specifier":">=2","url":null}
+{"extras":[],"marker":"python_version < \"3.11\"","name":"tomli","specifier":">=1.1.0","url":null}
+{"extras":[],"marker":"python_version < \"3.10\"","name":"typing-extensions","specifier":">=3.10.0.0","url":null}
+{"extras":[],"marker":"extra == \"colorama\"","name":"colorama","specifier":">=0.4.3","url":null}
+{"extras":[],"marker":"extra == \"d\"","name":"aiohttp","specifier":">=3.7.4","url":null}
+{"extras":[],"marker":"extra == \"jupyter\"","name":"ipython","specifier":">=7.8.0","url":null}
+{"extras":[],"marker":"extra == \"jupyter\"","name":"tokenize-rt","specifier":">=3.2.0","url":null}
+{"extras":[],"marker":"extra == \"uvloop\"","name":"uvloop","specifier":">=0.15.2","url":null}

@@ -1,0 +1,78 @@
+wheel,name,specifier,url,extras,marker
+cookiecutter-2.3.0-py3-none-any.whl,Jinja2,"<4.0.0,>=2.7",,[],
+cookiecutter-2.3.0-py3-none-any.whl,click,"<9.0.0,>=7.0",,[],
+copier-8.3.0-py3-none-any.whl,typing-extensions,"<5.0.0,>=3.7.4",,[],"python_version < ""3.9"""
+cruft-2.15.0-py3-none-any.whl,importlib-metadata,"<5.0.0,>=2.0.0",,[],"python_version < ""3.8"""
+flake8-6.1.0-py2.py3-none-any.whl,mccabe,"<0.8.0,>=0.7.0",,[],
+flake8-6.1.0-py2.py3-none-any.whl,pycodestyle,"<2.12.0,>=2.11.0",,[],
+flake8-6.1.0-py2.py3-none-any.whl,pyflakes,"<3.2.0,>=3.1.0",,[],
+httpie-3.2.2-py3-none-any.whl,werkzeug,<2.1.0,,[],"extra == ""dev"""
+httpie-3.2.2-py3-none-any.whl,werkzeug,<2.1.0,,[],"extra == ""test"""
+ipython-8.15.0-py3-none-any.whl,prompt-toolkit,"!=3.0.37,<3.1.0,>=3.0.30",,[],
+ipython-8.15.0-py3-none-any.whl,pytest,<7,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""all"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""doc"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""test"""
+ipython-8.15.0-py3-none-any.whl,pytest,<7.1,,[],"extra == ""test-extra"""
+pgcli-3.5.0-py3-none-any.whl,prompt-toolkit,"<4.0.0,>=2.0.6",,[],
+pgcli-3.5.0-py3-none-any.whl,sqlparse,"<0.5,>=0.3.0",,[],
+pip_tools-7.3.0-py3-none-any.whl,flit-core,"<4,>=2",,[],"extra == ""testing"""
+pipenv-2023.9.1-py3-none-any.whl,black,==23.3.0,,[],"extra == ""dev"""
+pipenv-2023.9.1-py3-none-any.whl,flake8,"<4.0,>=3.3.0",,[],"extra == ""dev"""
+poetry-1.6.1-py3-none-any.whl,build,"<0.11.0,>=0.10.0",,[],
+poetry-1.6.1-py3-none-any.whl,cachecontrol,"<0.14.0,>=0.13.0",,"[""filecache""]",
+poetry-1.6.1-py3-none-any.whl,cleo,"<3.0.0,>=2.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,crashtest,"<0.5.0,>=0.4.1",,[],
+poetry-1.6.1-py3-none-any.whl,dulwich,"<0.22.0,>=0.21.2",,[],
+poetry-1.6.1-py3-none-any.whl,installer,"<0.8.0,>=0.7.0",,[],
+poetry-1.6.1-py3-none-any.whl,jsonschema,"<4.18.0,>=4.10.0",,[],
+poetry-1.6.1-py3-none-any.whl,keyring,"<25.0.0,>=24.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,pexpect,"<5.0.0,>=4.7.0",,[],
+poetry-1.6.1-py3-none-any.whl,pkginfo,"<2.0.0,>=1.9.4",,[],
+poetry-1.6.1-py3-none-any.whl,platformdirs,"<4.0.0,>=3.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,poetry-core,==1.7.0,,[],
+poetry-1.6.1-py3-none-any.whl,poetry-plugin-export,"<2.0.0,>=1.5.0",,[],
+poetry-1.6.1-py3-none-any.whl,pyproject-hooks,"<2.0.0,>=1.0.0",,[],
+poetry-1.6.1-py3-none-any.whl,requests,"<3.0,>=2.26",,[],
+poetry-1.6.1-py3-none-any.whl,requests-toolbelt,"<2,>=0.9.1",,[],
+poetry-1.6.1-py3-none-any.whl,shellingham,"<2.0,>=1.5",,[],
+poetry-1.6.1-py3-none-any.whl,tomli,"<3.0.0,>=2.0.1",,[],"python_version < ""3.11"""
+poetry-1.6.1-py3-none-any.whl,tomlkit,"<1.0.0,>=0.11.4",,[],
+poetry-1.6.1-py3-none-any.whl,virtualenv,"<21.0.0,>=20.22.0",,[],
+poetry-1.6.1-py3-none-any.whl,xattr,"<0.11.0,>=0.10.0",,[],"sys_platform == ""darwin"""
+pycln-2.2.2-py3-none-any.whl,dataclasses,"<0.8,>=0.7",,[],"python_version == ""3.6"""
+pycln-2.2.2-py3-none-any.whl,libcst,"<0.4.0,>=0.3.10",,[],"python_version < ""3.7"""
+pylint-2.17.5-py3-none-any.whl,astroid,"<=2.17.0-dev0,>=2.15.6",,[],
+pylint-2.17.5-py3-none-any.whl,isort,"<6,>=4.2.5",,[],
+pylint-2.17.5-py3-none-any.whl,mccabe,"<0.8,>=0.6",,[],
+pyshacl-0.23.0-py3-none-any.whl,black,==23.3.0,,[],"extra == ""dev-lint"""
+pyshacl-0.23.0-py3-none-any.whl,coverage,"!=6.0.*,!=6.1,!=6.1.1,<7,>6",,[],"extra == ""dev-coverage"""
+pyshacl-0.23.0-py3-none-any.whl,html5lib,"<2,>=1.1",,[],
+pyshacl-0.23.0-py3-none-any.whl,mypy,"<0.900,>=0.800",,[],"python_version < ""3.10"" and extra == ""dev-type-checking"""
+pyshacl-0.23.0-py3-none-any.whl,mypy,"<0.1000,>=0.900",,[],"python_version >= ""3.10"" and extra == ""dev-type-checking"""
+pyshacl-0.23.0-py3-none-any.whl,owlrl,"<7,>=6.0.2",,[],
+pyshacl-0.23.0-py3-none-any.whl,prettytable,"<3.0.0,>=2.2.1",,[],
+pyshacl-0.23.0-py3-none-any.whl,pyduktape2,"<0.5.0,>=0.4.3",,[],"extra == ""js"""
+pyshacl-0.23.0-py3-none-any.whl,pytest-cov,"<3.0.0,>=2.8.1",,[],"extra == ""dev-coverage"""
+pyshacl-0.23.0-py3-none-any.whl,rdflib,"<7,>=6.3.2",,[],
+pyshacl-0.23.0-py3-none-any.whl,ruff,"<0.0.268,>=0.0.267",,[],"extra == ""dev-lint"""
+pyshacl-0.23.0-py3-none-any.whl,sanic,"<23,>=22.12",,[],"extra == ""http"""
+pyshacl-0.23.0-py3-none-any.whl,sanic-cors,==2.2.0,,[],"extra == ""http"""
+pyshacl-0.23.0-py3-none-any.whl,sanic-ext,"<23.6,>=23.3",,[],"extra == ""http"""
+pytest-7.4.1-py3-none-any.whl,pluggy,"<2.0,>=0.12",,[],
+rdflib-7.0.0-py3-none-any.whl,berkeleydb,"<19.0.0,>=18.1.0",,[],"extra == ""berkeleydb"""
+rdflib-7.0.0-py3-none-any.whl,html5lib,"<2.0,>=1.0",,[],"extra == ""html"""
+rdflib-7.0.0-py3-none-any.whl,isodate,"<0.7.0,>=0.6.0",,[],
+rdflib-7.0.0-py3-none-any.whl,lxml,"<5.0.0,>=4.3.0",,[],"extra == ""lxml"""
+rdflib-7.0.0-py3-none-any.whl,networkx,"<3.0.0,>=2.0.0",,[],"extra == ""networkx"""
+rdflib-7.0.0-py3-none-any.whl,pyparsing,"<4,>=2.1.0",,[],
+sherlock-0.4.1-py3-none-any.whl,filelock,"<4.0.0,>=3.7.1",,[],"extra == ""all"" or extra == ""filelock"""
+sherlock-0.4.1-py3-none-any.whl,kubernetes,"<25.0.0,>=24.2.0",,[],"extra == ""all"" or extra == ""kubernetes"""
+sherlock-0.4.1-py3-none-any.whl,pylibmc,"<2.0.0,>=1.6.1",,[],"extra == ""all"" or extra == ""memcached"""
+sherlock-0.4.1-py3-none-any.whl,python-etcd,"<0.5.0,>=0.4.5",,[],"extra == ""etcd"""
+sherlock-0.4.1-py3-none-any.whl,redis,"<5.0.0,>=4.3.4",,[],"extra == ""all"" or extra == ""redis"""
+virtualenv-20.24.4-py3-none-any.whl,distlib,"<1,>=0.3.7",,[],
+virtualenv-20.24.4-py3-none-any.whl,filelock,"<4,>=3.12.2",,[],
+virtualenv-20.24.4-py3-none-any.whl,platformdirs,"<4,>=3.9.1",,[],
+xonsh-0.14.1-py311-none-any.whl,sphinx,"<5,>=3.1",,[],"extra == ""doc"""

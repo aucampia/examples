@@ -1,0 +1,6 @@
+name,specifier,url,extras,marker
+filelock,"<4.0.0,>=3.7.1",,[],"extra == ""all"" or extra == ""filelock"""
+kubernetes,"<25.0.0,>=24.2.0",,[],"extra == ""all"" or extra == ""kubernetes"""
+pylibmc,"<2.0.0,>=1.6.1",,[],"extra == ""all"" or extra == ""memcached"""
+python-etcd,"<0.5.0,>=0.4.5",,[],"extra == ""etcd"""
+redis,"<5.0.0,>=4.3.4",,[],"extra == ""all"" or extra == ""redis"""
